@@ -1,11 +1,18 @@
 # Robotics & Intelligent Systems
 
-**Open engineering · Simulation · Digital twins · Applied AI · Enterprise integration**
+**Robotics · Engineering simulation · Digital twins · Technical AI · Domain integration**
 
-We develop and explore modular architectures, engineering models and software
-projects for robotics, scientific simulation, intelligent systems and business
-platforms. Our `jfx` portfolio connects domain research with model-based systems
-engineering, AI-assisted analysis and reusable integration interfaces.
+Robotics & Intelligent Systems develops and explores the **JFX portfolio** of
+modular engineering architectures, models and software for robotics, simulation,
+digital twins, applied AI and domain-specific information systems. Our work spans
+industrial design and manufacturing, agriculture, the built environment, medical
+imaging research, scientific education and enterprise processes.
+
+Our integration direction combines **shared technical AI services with adapters
+owned by each domain project**. Projects retain their models, data and acceptance
+criteria; reusable interfaces connect knowledge retrieval, simulation, telemetry
+and engineering evidence. Model-based systems engineering (MBSE) connects
+requirements, design, manufacturing and simulation across these workflows.
 
 [Browse repositories](https://github.com/orgs/robotics-intelligent-systems/repositories)
 · [Explore the project catalog](#project-catalog)
@@ -17,10 +24,13 @@ engineering, AI-assisted analysis and reusable integration interfaces.
 - [Project Catalog](#project-catalog)
   - [Robotics and Industrial Simulation](#robotics-and-industrial-simulation)
   - [Applied Artificial Intelligence](#applied-artificial-intelligence)
+  - [Agriculture and Built Environment](#agriculture-and-built-environment)
   - [Enterprise and Business Systems](#enterprise-and-business-systems)
   - [Maritime, Aerospace and Mobility](#maritime-aerospace-and-mobility)
   - [Energy and Scientific Modeling](#energy-and-scientific-modeling)
   - [Education and Infrastructure](#education-and-infrastructure)
+- [Shared Services and Integration Priorities](#shared-services-and-integration-priorities)
+- [Complementary Projects under sdk2035](#complementary-projects-under-sdk2035)
 - [Technology and Architecture](#technology-and-architecture)
 - [Getting Started](#getting-started)
 - [Contributing and Collaboration](#contributing-and-collaboration)
@@ -31,7 +41,8 @@ engineering, AI-assisted analysis and reusable integration interfaces.
 | --- | --- |
 | Simulation and digital twins | Connect models, state, telemetry and experimental evidence |
 | Robotics and industrial systems | Explore sensing, interfaces, control and simulation workflows |
-| Applied AI | Integrate domain knowledge and analytical services through replaceable interfaces |
+| Technical AI and knowledge | Retrieve source-linked evidence, extract knowledge and evaluate model outputs |
+| Agriculture and built environment | Explore farm operations, resource scenarios, buildings and infrastructure twins |
 | Enterprise systems | Connect business processes, data and management platforms |
 | Scientific education | Support computational learning, reproducible experiments and research |
 
@@ -41,9 +52,8 @@ README, source, releases and validation evidence define its current capabilities
 
 ## Project Catalog
 
-The catalog groups the **47 projects previously listed in this profile** by
-primary domain. It is a curated entry point, not a complete inventory of the
-organization or a single deployable product.
+The catalog groups **47 JFX projects** by primary domain. It is a curated entry
+point, not a complete inventory of the organization or a single deployable product.
 
 ### Robotics and Industrial Simulation
 
@@ -53,7 +63,7 @@ organization or a single deployable product.
 | [jfxai4rss](https://github.com/robotics-intelligent-systems/jfxai4rss) | Robotic-surgery simulation, medical imaging and biomedical engineering research |
 | [jfxai4rpcs](https://github.com/robotics-intelligent-systems/jfxai4rpcs) | Robotic pest-control systems |
 | [jfxai4rffs](https://github.com/robotics-intelligent-systems/jfxai4rffs) | Robotic firefighting systems and simulation |
-| [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | Microfactory simulation |
+| [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | Microfactory engineering, manufacturing simulation and operator decision-support architecture |
 | [jfxlms4air](https://github.com/robotics-intelligent-systems/jfxlms4air) | Localization and mapping for autonomous inspection robots |
 | [jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess) | Real-time simulation, testing and rapid control prototyping |
 | [jfxai4ceps](https://github.com/robotics-intelligent-systems/jfxai4ceps) | Chemical and process simulation |
@@ -63,21 +73,27 @@ organization or a single deployable product.
 
 | Repository | Focus |
 | --- | --- |
-| [jfxai4arch](https://github.com/robotics-intelligent-systems/jfxai4arch) | Modular AI platform architecture |
+| [jfxai4arch](https://github.com/robotics-intelligent-systems/jfxai4arch) | Technical knowledge and agent architecture, with an initial local RAG pilot |
 | [jfxai4bio](https://github.com/robotics-intelligent-systems/jfxai4bio) | Bioinformatics |
-| [jfxai4dia](https://github.com/robotics-intelligent-systems/jfxai4dia) | AI-assisted design |
-| [jfxai4cv](https://github.com/robotics-intelligent-systems/jfxai4cv) | Computer vision |
-| [jfxai4nlp](https://github.com/robotics-intelligent-systems/jfxai4nlp) | Natural language processing |
+| [jfxai4dia](https://github.com/robotics-intelligent-systems/jfxai4dia) | Physics-driven industrial design automation, CAD and engineering validation |
+| [jfxai4cv](https://github.com/robotics-intelligent-systems/jfxai4cv) | Medical imaging, segmentation, scientific visualization and computer-vision research |
+| [jfxai4nlp](https://github.com/robotics-intelligent-systems/jfxai4nlp) | NLP, knowledge extraction, code intelligence and AI evaluation architecture |
 | [jfxai4cbs](https://github.com/robotics-intelligent-systems/jfxai4cbs) | Cybersecurity |
 | [jfxai4rs](https://github.com/robotics-intelligent-systems/jfxai4rs) | Remote sensing |
 | [jfxai4mar](https://github.com/robotics-intelligent-systems/jfxai4mar) | Augmented reality applications |
 | [jfxai4mad](https://github.com/robotics-intelligent-systems/jfxai4mad) | Dating and relationship application concepts |
 
+### Agriculture and Built Environment
+
+| Repository | Focus |
+| --- | --- |
+| [jfxfmis](https://github.com/robotics-intelligent-systems/jfxfmis) | Farm management, precision agriculture, agricultural digital twins and telemetry |
+| [jfxai4bss](https://github.com/robotics-intelligent-systems/jfxai4bss) | Buildings, infrastructure, smart communities and built-environment digital-twin architecture |
+
 ### Enterprise and Business Systems
 
 | Repository | Focus |
 | --- | --- |
-| [jfxfmis](https://github.com/robotics-intelligent-systems/jfxfmis) | Farm management information systems |
 | [jfxotbs](https://github.com/robotics-intelligent-systems/jfxotbs) | Flight booking management |
 | [jfxhms](https://github.com/robotics-intelligent-systems/jfxhms) | Hospital management |
 | [jfxai4bpm](https://github.com/robotics-intelligent-systems/jfxai4bpm) | Business process management |
@@ -112,7 +128,6 @@ organization or a single deployable product.
 | [jfxorss](https://github.com/robotics-intelligent-systems/jfxorss) | Radar systems simulation |
 | [jfxai4mess](https://github.com/robotics-intelligent-systems/jfxai4mess) | Electromechanical power-system modeling |
 | [jfxai4nhes](https://github.com/robotics-intelligent-systems/jfxai4nhes) | Nuclear hybrid energy systems |
-| [jfxai4bss](https://github.com/robotics-intelligent-systems/jfxai4bss) | Greenhouse climate modeling |
 
 ### Education and Infrastructure
 
@@ -122,23 +137,79 @@ organization or a single deployable product.
 | [jfxlms](https://github.com/robotics-intelligent-systems/jfxlms) | Learning management systems |
 | [jfxnms](https://github.com/robotics-intelligent-systems/jfxnms) | Network management systems |
 
+## Shared Services and Integration Priorities
+
+The proposed division of responsibilities gives **JFXAI4ARCH** a shared technical
+knowledge and inference role, with **JFXAI4NLP** focused on language extraction,
+code intelligence and evaluation. Domain projects own their engineering workflows,
+validation and decisions. Cross-project interfaces remain integration work unless
+the corresponding repositories document an implementation.
+
+An [initial local RAG pilot](https://github.com/robotics-intelligent-systems/jfxai4arch/blob/main/docs/rag/PILOT.md)
+is available in JFXAI4ARCH: Markdown/TXT retrieval with LlamaIndex interfaces,
+source hashes and line references, optional local Ollama generation, a Langfuse
+metadata adapter and Bruno API checks. It is a small single-user baseline;
+real-model quality and a live Langfuse deployment still need validation. It does
+not establish a portfolio-wide knowledge platform or document-level access control.
+
+The next integrations are **proposed pilots**, selected according to available
+data and maintainers:
+
+| Direction | Host projects | Evidence required before adoption |
+| --- | --- | --- |
+| Technical answers with sources | JFXAI4ARCH + JFXAI4NLP | Curated questions, retrieval quality, supported citations, abstention and latency |
+| Text-to-CAD and manufacturing artifacts | JFXAI4DIA + JFXOSMS, with JFXAI4BSS for building applications | Geometry, units, dimensions, simulation results and traceable artifacts |
+| Inspection and mapping | JFXLMS4AIR | Versioned LiDAR captures, annotated changes and registration/detection metrics |
+| Agricultural scenarios | JFXFMIS, with JFXSCADA for telemetry | Soil/crop/water inputs, units, calibration and reproducible scenarios |
+| Enterprise adapters | JFXAI4BPM + JFXAI4CRM + JFXAI4OHS | Explicit API contracts, scoped access, audit records and regression checks |
+| Embedded laboratory workflows | JFXRTESS + JFXSCADA | Reproducible firmware builds and measured bench results |
+
+Components from a technology compendium are candidates, tools or references until
+adoption is supported by a versioned implementation and domain-specific tests.
+AI-generated suggestions remain inputs to engineering review; geometry checks,
+code tests, simulations and domain validation determine acceptance.
+
+## Complementary Projects under sdk2035
+
+These repositories are maintained under **sdk2035**, separately from the
+organization's catalog. They are complementary integration candidates with their
+own scope, implementation status and licensing.
+
+| Repository | Complementary role |
+| --- | --- |
+| [sdk2035/jfxlcdp](https://github.com/sdk2035/jfxlcdp) | Low-code authoring and declarative interfaces |
+| [sdk2035/jfxengine](https://github.com/sdk2035/jfxengine) | Engineering visualization and model integration in 3D environments |
+| [sdk2035/jfxmodelica](https://github.com/sdk2035/jfxmodelica) | Physical modeling, simulation and digital-twin architecture |
+| [sdk2035/jfxlegacy2modern](https://github.com/sdk2035/jfxlegacy2modern) | Legacy-code analysis and modernization workflows |
+
+A reference to one of these projects or to an upstream fork does not establish an
+installed dependency or a completed cross-project integration.
+
 ## Technology and Architecture
 
-The portfolio explores the following technology families. Their use depends on
-the repository; they are not organization-wide installation requirements.
+The portfolio favors **replaceable services, versioned artifacts and explicit
+contracts**. Technology choices belong to each project and deployment profile.
 
-| Layer | Technologies and concepts |
+| Layer | Integration direction |
 | --- | --- |
-| Language engineering and interoperability | RascalMPL, GraalVM, Truffle and domain-specific languages |
-| Physical and scientific modeling | Modelica/JModelica, C++ and domain-specific simulation tools |
-| Interfaces and visualization | JavaFX, 3D scenes, telemetry panels and immersive training concepts |
-| Robotics and distributed integration | ROS, network protocols and modular service interfaces |
-| AI and analytics | Python, C++, polyglot integration and project-specific model services |
-| Engineering practice | MBSE, explicit contracts, versioned models and reproducible validation |
+| Interfaces and visualization | JavaFX for desktop experiences; web interfaces where the use case requires them |
+| Language and model engineering | JVM components, Rascal/Spoon and domain-specific languages where appropriate; GraalVM/Truffle are evaluated per component |
+| Scientific and AI workloads | Python, Julia, R or native workers behind documented APIs when separate runtimes fit the workload |
+| Physical modeling | Modelica and discipline-specific solvers with explicit units, parameters and validation |
+| Knowledge and inference | Source-linked retrieval, replaceable model endpoints and measured answer quality |
+| Robotics, telemetry and enterprise integration | Project-owned adapters for devices, ROS, data acquisition and business systems |
+| Evidence and observability | Versioned jobs, artifact provenance, API checks and reproducible domain evaluations |
 
-Our integration direction favors replaceable components, documented interfaces
-and evidence that connects requirements to results. A referenced upstream tool
-or proposed adapter is not, by itself, proof of a working integration.
+Libraries may run in-process where compatibility is established. Scientific
+workers and external systems may use separate services. Development tools,
+datasets, hardware designs and documentation belong to the appropriate workflow,
+not automatically to a product's runtime. The portfolio does not require every
+component to execute within GraalVM or a single application.
+
+Select a small baseline first. Add distributed execution, semantic caching,
+additional databases or cloud services when measurements and deployment needs
+justify them. Record the chosen versions, upstream provenance, artifact licenses,
+maintainer, integration contract and validation results for every adopted component.
 
 ## Getting Started
 
@@ -147,7 +218,9 @@ or proposed adapter is not, by itself, proof of a working integration.
 3. Follow that repository's documented prerequisites and build or inspection steps.
 4. Use its issues to discuss a reproducible problem or a scoped improvement.
 
-For example, to inspect the maritime engineering project:
+For a runnable technical-knowledge starting point, follow the
+[JFXAI4ARCH pilot guide](https://github.com/robotics-intelligent-systems/jfxai4arch/blob/main/docs/rag/PILOT.md).
+For an example of a domain architecture, inspect the maritime engineering project:
 
 ```bash
 git clone https://github.com/robotics-intelligent-systems/jfxmbdss.git
@@ -175,3 +248,4 @@ issues. Browse the [organization repositories](https://github.com/orgs/robotics-
 to find the closest domain.
 
 **Model before integration. Validate with evidence. Keep components replaceable.**
+
