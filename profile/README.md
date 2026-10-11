@@ -45,7 +45,7 @@ pilots and validated integrations are distinguished by repository evidence.
 
 ## Public projects and AI-assisted backlog
 
-[Complete Markdown register](https://github.com/robotics-intelligent-systems/.github/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-11: **76 public projects** (29 personal and 47 organizational), **74 open issues**, **2 project drafts** and the specification audit for **62 CAD concepts**. The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
+[Complete Markdown register](https://github.com/robotics-intelligent-systems/.github/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-11: **76 public projects** (29 personal and 47 organizational), **75 open issues**, **1 project draft** and the specification audit for **62 CAD concepts**. The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
 
 ## Our Focus
 
