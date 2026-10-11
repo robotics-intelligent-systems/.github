@@ -1,0 +1,540 @@
+{
+  "reviewed_at": "2026-10-11",
+  "scope": "47 JFX projects listed in the organizational profile",
+  "projects": [
+    {
+      "project": "jfxai4mhers",
+      "concepts": [
+        {
+          "title": "OpenTwin EXO expedition suit",
+          "description": "Modular expedition-suit concept for studying subsystem packaging, interfaces and simulation requirements.",
+          "path": "MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxrtess",
+      "concepts": [
+        {
+          "title": "AM-B amphibious motorcycle",
+          "description": "Motorcycle concept for studying rider balance, water immersion, propulsion and transition controls.",
+          "path": "MBSE/CAD/amphibious-motorcycle-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/amphibious-motorcycle-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxrtess/main/MBSE/CAD/amphibious-motorcycle-concept.jpg"
+        },
+        {
+          "title": "AM-S amphibious sport roadster",
+          "description": "Roadster concept connecting occupant packaging, road dynamics, hull loading and water-mode transitions.",
+          "path": "MBSE/CAD/amphibious-sport-roadster.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/amphibious-sport-roadster.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxrtess/main/MBSE/CAD/amphibious-sport-roadster.jpg"
+        },
+        {
+          "title": "AM-U6 amphibious utility vehicle",
+          "description": "Utility-vehicle concept for exploring cargo restraint, load distribution, waterline and service access.",
+          "path": "MBSE/CAD/deeper-vehicle-immersion-in water-mode.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/deeper-vehicle-immersion-in%20water-mode.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxrtess/main/MBSE/CAD/deeper-vehicle-immersion-in%20water-mode.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4dia",
+      "concepts": [
+        {
+          "title": "Hybrid gyrodyne air taxi",
+          "description": "Modular hybrid gyrodyne concept for air-taxi requirements and subsystem integration.",
+          "path": "MBSE/CAD/modular-hybrid-gyrodyne-air-taxi.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/modular-hybrid-gyrodyne-air-taxi.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4dia/main/MBSE/CAD/modular-hybrid-gyrodyne-air-taxi.jpg"
+        },
+        {
+          "title": "OpenTwin personal eVTOL",
+          "description": "Personal electric vertical-flight concept for requirements, interfaces and digital-twin exploration.",
+          "path": "MBSE/CAD/opentwin-personal-evtol-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/opentwin-personal-evtol-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4dia/main/MBSE/CAD/opentwin-personal-evtol-digital-twin-concept.jpg"
+        },
+        {
+          "title": "Twin-float amphibious gyroplane",
+          "description": "Gyroplane concept with twin floats for studying amphibious operation and integration.",
+          "path": "MBSE/CAD/twin-float-amphibious-gyroplane.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/twin-float-amphibious-gyroplane.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4dia/main/MBSE/CAD/twin-float-amphibious-gyroplane.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4mad",
+      "concepts": [
+        {
+          "title": "Hydrojet submersible",
+          "description": "Dolphin-inspired submersible concept for exploring vehicle form and hydrojet integration.",
+          "path": "MBSE/CAD/dolphin-inspired-hydrojet-submersible-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/dolphin-inspired-hydrojet-submersible-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mad/main/MBSE/CAD/dolphin-inspired-hydrojet-submersible-concept.jpg"
+        },
+        {
+          "title": "OpenTwin amphibious ATV",
+          "description": "Modular amphibious all-terrain vehicle concept for mobility and digital-twin studies.",
+          "path": "MBSE/CAD/opentwin-modular-amphibious-atv-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/opentwin-modular-amphibious-atv-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mad/main/MBSE/CAD/opentwin-modular-amphibious-atv-digital-twin-concept.jpg"
+        },
+        {
+          "title": "OpenTwin shared-retreat habitat",
+          "description": "Cutaway concept of a modular shared habitat for studying spaces, access, utilities and structural interfaces.",
+          "path": "MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mad/main/MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxfmis",
+      "concepts": [
+        {
+          "title": "Multi-level floating farm",
+          "description": "Stacked growing-space concept integrating marine structures, utilities and agricultural logistics.",
+          "path": "MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg"
+        },
+        {
+          "title": "Floating farm",
+          "description": "Concept connecting floating agriculture, fish production, renewable supply and shore operations.",
+          "path": "MBSE/CAD/floating-farm-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/floating-farm-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/floating-farm-concept.jpg"
+        },
+        {
+          "title": "Modular floating farm island",
+          "description": "Terraced agriculture concept with modular structures and resource-loop interfaces.",
+          "path": "MBSE/CAD/modular-floating-farm-island-digital-twin.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg"
+        },
+        {
+          "title": "Offshore blue-economy twins",
+          "description": "Concept board connecting floating infrastructure, aquaculture, support vessels and digital replicas.",
+          "path": "MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4bss",
+      "concepts": [
+        {
+          "title": "Floating offshore stadium",
+          "description": "Floating venue concept for event spaces, hospitality, docking and shared services.",
+          "path": "MBSE/CAD/floating-offshore-stadium-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/floating-offshore-stadium-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/floating-offshore-stadium-concept.jpg"
+        },
+        {
+          "title": "Modular floating community",
+          "description": "Housing and shared-services concept; the source filename does not establish hurricane resistance.",
+          "path": "MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg"
+        },
+        {
+          "title": "Modular offshore platform",
+          "description": "Platform concept integrating living, operations, research, lifting and mission-module spaces.",
+          "path": "MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxotbs",
+      "concepts": [
+        {
+          "title": "OpenTwin VTOL Rescue LH2",
+          "description": "Cutaway rescue-aircraft concept integrating a modular bay, hydrogen storage, fuel cells and electric propulsion.",
+          "path": "MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg"
+        },
+        {
+          "title": "Modular GCS trailer",
+          "description": "Mobile ground-control and simulation-station concept for equipment and operator-space integration.",
+          "path": "MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg"
+        },
+        {
+          "title": "Modular underground hangar",
+          "description": "Hangar concept for storage, maintenance, surface access, ventilation and energy interfaces.",
+          "path": "MBSE/CAD/modular-underground-hangar-digital-twin.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg"
+        },
+        {
+          "title": "Modular floating airport",
+          "description": "Concept connecting floating modules, airfield spaces, terminals, utilities and maritime access.",
+          "path": "MBSE/CAD/open-modular-mega-floating-airport.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/open-modular-mega-floating-airport.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/open-modular-mega-floating-airport.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxhms",
+      "concepts": [
+        {
+          "title": "Large medical support ship",
+          "description": "Ship concept for arranging medical-support spaces and maritime mission interfaces.",
+          "path": "MBSE/CAD/large-medical-support-ship-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/large-medical-support-ship-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/large-medical-support-ship-concept.jpg"
+        },
+        {
+          "title": "Medical patrol boat",
+          "description": "Small-vessel concept for coastal or river medical-support missions.",
+          "path": "MBSE/CAD/medical-patrol-boat-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/medical-patrol-boat-concept.jpg"
+        },
+        {
+          "title": "Modular medical vessel",
+          "description": "Medical-support vessel concept with modular mission spaces and service interfaces.",
+          "path": "MBSE/CAD/modular-medical-vessel-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/modular-medical-vessel-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/modular-medical-vessel-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4ftm",
+      "concepts": [
+        {
+          "title": "OpenTwin explorer motorhome",
+          "description": "Modular expedition motorhome concept for living-space and mobility studies.",
+          "path": "MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg"
+        },
+        {
+          "title": "OpenTwin mini teardrop RV",
+          "description": "Compact modular recreational-trailer concept for packaging and digital-twin exploration.",
+          "path": "MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg"
+        },
+        {
+          "title": "Rising-roof expedition motorhome",
+          "description": "Expedition motorhome concept exploring an expandable roof and accommodation layout.",
+          "path": "MBSE/CAD/rising-roof-expedition-motorhome.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4moms",
+      "concepts": [
+        {
+          "title": "Floating dry dock",
+          "description": "Dock concept integrating maintenance areas, cranes, keel supports, ballast and logistics.",
+          "path": "MBSE/CAD/floating-dry-dock-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/floating-dry-dock-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/floating-dry-dock-concept.jpg"
+        },
+        {
+          "title": "Offshore platform",
+          "description": "Self-elevating platform concept with working deck, accommodation, utilities and subsea interfaces.",
+          "path": "MBSE/CAD/offshore-platform-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/offshore-platform-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/offshore-platform-concept.jpg"
+        },
+        {
+          "title": "OpenTwin Ocean Mining research vehicle",
+          "description": "Cutaway concept of an uncrewed research vehicle for prospecting, sampling and environmental observation.",
+          "path": "MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxmbdss",
+      "concepts": [
+        {
+          "title": "Hydrogen-hybrid amphibious transport",
+          "description": "High-wing cargo-aircraft concept with electric propulsion and twin floats.",
+          "path": "MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg"
+        },
+        {
+          "title": "OpenTwin Marine ground-effect platform",
+          "description": "Waterborne transport concept with a broad wing and interchangeable mission modules.",
+          "path": "MBSE/CAD/liberty-lifter-seaplane-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/liberty-lifter-seaplane-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/liberty-lifter-seaplane-concept.jpg"
+        },
+        {
+          "title": "Mobile offshore base",
+          "description": "Floating-base concept for modular logistics and offshore-support spaces.",
+          "path": "MBSE/CAD/mobile-offshore-base-digital-twin.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/mobile-offshore-base-digital-twin.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/mobile-offshore-base-digital-twin.jpg"
+        },
+        {
+          "title": "OpenTwin USV H2",
+          "description": "Uncrewed surface-vessel concept combining cargo handling, hydrogen energy and supervised research.",
+          "path": "MBSE/CAD/opentwin-usv-h2-digital-twin-cutaway-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/opentwin-usv-h2-digital-twin-cutaway-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/opentwin-usv-h2-digital-twin-cutaway-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxnpss",
+      "concepts": [
+        {
+          "title": "Modular reusable aerospace shuttle",
+          "description": "Reusable-shuttle concept for high-level mission and subsystem integration studies.",
+          "path": "MBSE/CAD/modular-reusable-aerospace-shuttle-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/modular-reusable-aerospace-shuttle-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxnpss/main/MBSE/CAD/modular-reusable-aerospace-shuttle-concept.jpg"
+        },
+        {
+          "title": "Supersonic freighter",
+          "description": "Freighter concept for exploring aerospace configuration and cargo packaging; performance remains unverified.",
+          "path": "MBSE/CAD/supersonic-freighter-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/supersonic-freighter-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxnpss/main/MBSE/CAD/supersonic-freighter-digital-twin-concept.jpg"
+        },
+        {
+          "title": "Supersonic research demonstrator",
+          "description": "Research-aircraft concept for studying configuration and simulation requirements.",
+          "path": "MBSE/CAD/supersonic-research-demonstrator.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/supersonic-research-demonstrator.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxnpss/main/MBSE/CAD/supersonic-research-demonstrator.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxjts",
+      "concepts": [
+        {
+          "title": "Hybrid-electric amphibious aircraft",
+          "description": "Modular aircraft concept connecting amphibious configuration and hybrid-electric integration.",
+          "path": "MBSE/CAD/modular-hybrid-electric-amphibious-aircraft.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/modular-hybrid-electric-amphibious-aircraft.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/modular-hybrid-electric-amphibious-aircraft.jpg"
+        },
+        {
+          "title": "Hybrid STOL air taxi",
+          "description": "Air-taxi concept for exploring short-field mission requirements and modular integration.",
+          "path": "MBSE/CAD/modular-hybrid-stol-air-taxi.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/modular-hybrid-stol-air-taxi.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/modular-hybrid-stol-air-taxi.jpg"
+        },
+        {
+          "title": "OpenTwin LH2 hybrid helicopter",
+          "description": "Helicopter concept for hydrogen-energy packaging and hybrid-propulsion interfaces.",
+          "path": "MBSE/CAD/opentwin-lh2-hybrid-helicopter-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/opentwin-lh2-hybrid-helicopter-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/opentwin-lh2-hybrid-helicopter-digital-twin-concept.jpg"
+        },
+        {
+          "title": "Robotic motion simulator",
+          "description": "Motion-platform concept for studying simulator hardware and training interfaces.",
+          "path": "MBSE/CAD/robotic-motion-simulator.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/robotic-motion-simulator.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/robotic-motion-simulator.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4mss",
+      "concepts": [
+        {
+          "title": "Amphibious recreational vehicle",
+          "description": "RV concept connecting accommodation, road mobility and water-mode requirements.",
+          "path": "MBSE/CAD/amphibious-rv-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/amphibious-rv-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mss/main/MBSE/CAD/amphibious-rv-concept.jpg"
+        },
+        {
+          "title": "River cruiser",
+          "description": "River-vessel concept for studying passenger spaces and maritime integration.",
+          "path": "MBSE/CAD/river-cruiser-ship-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/river-cruiser-ship-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mss/main/MBSE/CAD/river-cruiser-ship-concept.jpg"
+        },
+        {
+          "title": "Solar amphibious catamaran",
+          "description": "Catamaran concept connecting amphibious mobility and solar-energy integration.",
+          "path": "MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mss/main/MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4mjas",
+      "concepts": [
+        {
+          "title": "OpenTwin H2 seaglider and floating hangar",
+          "description": "Waterborne-aircraft and hangar concept linking electric propulsion, energy logistics and moorings.",
+          "path": "MBSE/CAD/opentwin-h2-seaglider-floating-hangar-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/opentwin-h2-seaglider-floating-hangar-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mjas/main/MBSE/CAD/opentwin-h2-seaglider-floating-hangar-digital-twin-concept.jpg"
+        },
+        {
+          "title": "OpenTwin MAD LH2",
+          "description": "Compact personal-aircraft cutaway exploring hydrogen storage, fuel cells, batteries and avionics interfaces.",
+          "path": "MBSE/CAD/opentwin-mad-lh2-digital-twin-cutaway-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/opentwin-mad-lh2-digital-twin-cutaway-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mjas/main/MBSE/CAD/opentwin-mad-lh2-digital-twin-cutaway-concept.jpg"
+        },
+        {
+          "title": "OpenTwin AirJet BWB cargo UAV",
+          "description": "Blended-wing-body cargo concept with modular payloads and electric-propulsion energy interfaces.",
+          "path": "MBSE/CAD/uav-cargo-bwb-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/uav-cargo-bwb-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mjas/main/MBSE/CAD/uav-cargo-bwb-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4mass",
+      "concepts": [
+        {
+          "title": "OpenTwin amphibious agricultural UGV",
+          "description": "Uncrewed agricultural-vehicle concept for modular field operations and amphibious mobility studies.",
+          "path": "MBSE/CAD/opentwin-amphibious-ugv-agricultural-robot-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-amphibious-ugv-agricultural-robot-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mass/main/MBSE/CAD/opentwin-amphibious-ugv-agricultural-robot-digital-twin-concept.jpg"
+        },
+        {
+          "title": "OpenTwin Explorer habitat",
+          "description": "Habitat concept exploring mobile and fixed configurations and service interfaces.",
+          "path": "MBSE/CAD/opentwin-explorer-mobile-fixed-habitat-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-explorer-mobile-fixed-habitat-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mass/main/MBSE/CAD/opentwin-explorer-mobile-fixed-habitat-digital-twin-concept.jpg"
+        },
+        {
+          "title": "OpenTwin modular protected truck",
+          "description": "Protected-truck concept for studying vehicle packaging and modular mission interfaces.",
+          "path": "MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mass/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4scss",
+      "concepts": [
+        {
+          "title": "Modular hydrogen airship",
+          "description": "Airship concept with twin-turbine imagery; the asset alone does not establish hydrogen's technical role.",
+          "path": "MBSE/CAD/modular-hydrogen-airship-with-twin-turbines.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-airship-with-twin-turbines.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4scss/main/MBSE/CAD/modular-hydrogen-airship-with-twin-turbines.jpg"
+        },
+        {
+          "title": "Modular hydrogen-electric helicopter",
+          "description": "Aerial-platform concept for exploring hydrogen-electric subsystem integration.",
+          "path": "MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4scss/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg"
+        },
+        {
+          "title": "Solar HAPS glider",
+          "description": "High-altitude aerial-platform concept for solar-energy and mission studies, stored in the satellite portfolio project.",
+          "path": "MBSE/CAD/solar-haps-glider-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/solar-haps-glider-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4scss/main/MBSE/CAD/solar-haps-glider-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4mlrss",
+      "concepts": [
+        {
+          "title": "Modular air launch",
+          "description": "High-level air-launch concept for mission architecture and simulation studies.",
+          "path": "MBSE/CAD/modular-air-launch-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/modular-air-launch-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mlrss/main/MBSE/CAD/modular-air-launch-concept.jpg"
+        },
+        {
+          "title": "Modular rocket",
+          "description": "Launch-vehicle concept for studying module boundaries and requirements traceability.",
+          "path": "MBSE/CAD/modular-rocket-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/modular-rocket-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mlrss/main/MBSE/CAD/modular-rocket-concept.jpg"
+        },
+        {
+          "title": "Multi-body launch configuration",
+          "description": "Multi-body launch concept for high-level configuration and interface exploration.",
+          "path": "MBSE/CAD/multibody-launch-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/multibody-launch-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mlrss/main/MBSE/CAD/multibody-launch-concept.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4mess",
+      "concepts": [
+        {
+          "title": "Coastal hydrogen energy hub",
+          "description": "Concept linking electricity, water treatment, electrolysis, gaseous storage, distribution and fuel cells.",
+          "path": "MBSE/CAD/coastal-hydrogen-energy-hub-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/coastal-hydrogen-energy-hub-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mess/main/MBSE/CAD/coastal-hydrogen-energy-hub-concept.jpg"
+        },
+        {
+          "title": "Floating tidal-energy platform",
+          "description": "Tidal-stream concept with submerged turbines, moorings, export cables and maintenance interfaces.",
+          "path": "MBSE/CAD/floating-tidal-energy-concept.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/floating-tidal-energy-concept.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mess/main/MBSE/CAD/floating-tidal-energy-concept.jpg"
+        },
+        {
+          "title": "Modular floating wind",
+          "description": "Wind-platform concept integrating a turbine, buoyancy structures, moorings and electrical export.",
+          "path": "MBSE/CAD/modular-floating-wind-digital-twin.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/modular-floating-wind-digital-twin.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mess/main/MBSE/CAD/modular-floating-wind-digital-twin.jpg"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4nhes",
+      "concepts": [
+        {
+          "title": "Nuclear-electric ocean research vessel",
+          "description": "Research-vessel concept for high-level energy and maritime integration studies.",
+          "path": "MBSE/CAD/nuclear-electric-ocean-research-vessel.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/nuclear-electric-ocean-research-vessel.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4nhes/main/MBSE/CAD/nuclear-electric-ocean-research-vessel.jpg"
+        },
+        {
+          "title": "Modular floating energy platform",
+          "description": "Floating energy-infrastructure concept for module and service-interface exploration.",
+          "path": "MBSE/CAD/open-modular-floating-energy-twin.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/open-modular-floating-energy-twin.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4nhes/main/MBSE/CAD/open-modular-floating-energy-twin.jpg"
+        },
+        {
+          "title": "Modular subsea energy platform",
+          "description": "Subsea energy concept for high-level packaging and digital-twin requirements.",
+          "path": "MBSE/CAD/open-modular-subsea-energy-twin.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/open-modular-subsea-energy-twin.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4nhes/main/MBSE/CAD/open-modular-subsea-energy-twin.jpg"
+        }
+      ]
+    }
+  ]
+}

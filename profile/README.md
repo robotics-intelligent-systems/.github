@@ -23,6 +23,8 @@ pilots and validated integrations are distinguished by repository evidence.
 
 ## Explore
 
+- [CAD Concept Gallery](#cad-concept-gallery)
+
 - [Our Focus](#our-focus)
 - [Project Catalog](#project-catalog)
   - [Project Progress Guide](#reading-the-progress-bars)
@@ -166,6 +168,310 @@ The ~30% estimate reflects contract maturity; flight dynamics and simulator inte
 | [jfxcms](https://github.com/robotics-intelligent-systems/jfxcms) | Programming contests, scientific education, AI-assisted learning and simulation/PME preparation | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one programming exercise with reproducible grading and learning evidence. |
 | [jfxlms](https://github.com/robotics-intelligent-systems/jfxlms) | Learning management systems | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one course/enrollment adapter and grade-persistence checks. |
 | [jfxnms](https://github.com/robotics-intelligent-systems/jfxnms) | Network management systems | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one read-only network inventory contract and telemetry replay fixture. |
+
+## CAD Concept Gallery
+
+Reviewed on **2026-10-11** across all **47 projects in the JFX project catalog**: **20 projects contain 62 concept images** in `MBSE/CAD`; 27 have no images in that directory. This scope covers the profile's JFX portfolio, not every fork or reference repository in the organization.
+
+These are visual concept studies, not verified CAD geometry or demonstrated performance. Descriptions follow repository documentation where available and otherwise describe the asset's named subject conservatively. Click a thumbnail or **Preview** to open the source image. [Review coverage](cad-review.md).
+
+- **[jfxai4mhers](https://github.com/robotics-intelligent-systems/jfxai4mhers)**
+  - **OpenTwin EXO expedition suit** — Modular expedition-suit concept for studying subsystem packaging, interfaces and simulation requirements. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg" alt="OpenTwin EXO expedition suit" width="220" loading="lazy"></a>
+
+- **[jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess)**
+  - **AM-B amphibious motorcycle** — Motorcycle concept for studying rider balance, water immersion, propulsion and transition controls. [Preview](https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/amphibious-motorcycle-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/amphibious-motorcycle-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxrtess/main/MBSE/CAD/amphibious-motorcycle-concept.jpg" alt="AM-B amphibious motorcycle" width="220" loading="lazy"></a>
+
+  - **AM-S amphibious sport roadster** — Roadster concept connecting occupant packaging, road dynamics, hull loading and water-mode transitions. [Preview](https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/amphibious-sport-roadster.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/amphibious-sport-roadster.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxrtess/main/MBSE/CAD/amphibious-sport-roadster.jpg" alt="AM-S amphibious sport roadster" width="220" loading="lazy"></a>
+
+  - **AM-U6 amphibious utility vehicle** — Utility-vehicle concept for exploring cargo restraint, load distribution, waterline and service access. [Preview](https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/deeper-vehicle-immersion-in%20water-mode.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxrtess/blob/main/MBSE/CAD/deeper-vehicle-immersion-in%20water-mode.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxrtess/main/MBSE/CAD/deeper-vehicle-immersion-in%20water-mode.jpg" alt="AM-U6 amphibious utility vehicle" width="220" loading="lazy"></a>
+
+- **[jfxai4dia](https://github.com/robotics-intelligent-systems/jfxai4dia)**
+  - **Hybrid gyrodyne air taxi** — Modular hybrid gyrodyne concept for air-taxi requirements and subsystem integration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/modular-hybrid-gyrodyne-air-taxi.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/modular-hybrid-gyrodyne-air-taxi.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4dia/main/MBSE/CAD/modular-hybrid-gyrodyne-air-taxi.jpg" alt="Hybrid gyrodyne air taxi" width="220" loading="lazy"></a>
+
+  - **OpenTwin personal eVTOL** — Personal electric vertical-flight concept for requirements, interfaces and digital-twin exploration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/opentwin-personal-evtol-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/opentwin-personal-evtol-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4dia/main/MBSE/CAD/opentwin-personal-evtol-digital-twin-concept.jpg" alt="OpenTwin personal eVTOL" width="220" loading="lazy"></a>
+
+  - **Twin-float amphibious gyroplane** — Gyroplane concept with twin floats for studying amphibious operation and integration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/twin-float-amphibious-gyroplane.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4dia/blob/main/MBSE/CAD/twin-float-amphibious-gyroplane.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4dia/main/MBSE/CAD/twin-float-amphibious-gyroplane.jpg" alt="Twin-float amphibious gyroplane" width="220" loading="lazy"></a>
+
+- **[jfxai4mad](https://github.com/robotics-intelligent-systems/jfxai4mad)**
+  - **Hydrojet submersible** — Dolphin-inspired submersible concept for exploring vehicle form and hydrojet integration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/dolphin-inspired-hydrojet-submersible-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/dolphin-inspired-hydrojet-submersible-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mad/main/MBSE/CAD/dolphin-inspired-hydrojet-submersible-concept.jpg" alt="Hydrojet submersible" width="220" loading="lazy"></a>
+
+  - **OpenTwin amphibious ATV** — Modular amphibious all-terrain vehicle concept for mobility and digital-twin studies. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/opentwin-modular-amphibious-atv-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/opentwin-modular-amphibious-atv-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mad/main/MBSE/CAD/opentwin-modular-amphibious-atv-digital-twin-concept.jpg" alt="OpenTwin amphibious ATV" width="220" loading="lazy"></a>
+
+  - **OpenTwin shared-retreat habitat** — Cutaway concept of a modular shared habitat for studying spaces, access, utilities and structural interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mad/blob/main/MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mad/main/MBSE/CAD/opentwin-modular-habitat-shared-retreat-cutaway.jpg" alt="OpenTwin shared-retreat habitat" width="220" loading="lazy"></a>
+
+- **[jfxfmis](https://github.com/robotics-intelligent-systems/jfxfmis)**
+  - **Multi-level floating farm** — Stacked growing-space concept integrating marine structures, utilities and agricultural logistics. [Preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg" alt="Multi-level floating farm" width="220" loading="lazy"></a>
+
+  - **Floating farm** — Concept connecting floating agriculture, fish production, renewable supply and shore operations. [Preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/floating-farm-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/floating-farm-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/floating-farm-concept.jpg" alt="Floating farm" width="220" loading="lazy"></a>
+
+  - **Modular floating farm island** — Terraced agriculture concept with modular structures and resource-loop interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg" alt="Modular floating farm island" width="220" loading="lazy"></a>
+
+  - **Offshore blue-economy twins** — Concept board connecting floating infrastructure, aquaculture, support vessels and digital replicas. [Preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg" alt="Offshore blue-economy twins" width="220" loading="lazy"></a>
+
+- **[jfxai4bss](https://github.com/robotics-intelligent-systems/jfxai4bss)**
+  - **Floating offshore stadium** — Floating venue concept for event spaces, hospitality, docking and shared services. [Preview](https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/floating-offshore-stadium-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/floating-offshore-stadium-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/floating-offshore-stadium-concept.jpg" alt="Floating offshore stadium" width="220" loading="lazy"></a>
+
+  - **Modular floating community** — Housing and shared-services concept; the source filename does not establish hurricane resistance. [Preview](https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg" alt="Modular floating community" width="220" loading="lazy"></a>
+
+  - **Modular offshore platform** — Platform concept integrating living, operations, research, lifting and mission-module spaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg" alt="Modular offshore platform" width="220" loading="lazy"></a>
+
+- **[jfxotbs](https://github.com/robotics-intelligent-systems/jfxotbs)**
+  - **OpenTwin VTOL Rescue LH2** — Cutaway rescue-aircraft concept integrating a modular bay, hydrogen storage, fuel cells and electric propulsion. [Preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg" alt="OpenTwin VTOL Rescue LH2" width="220" loading="lazy"></a>
+
+  - **Modular GCS trailer** — Mobile ground-control and simulation-station concept for equipment and operator-space integration. [Preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg" alt="Modular GCS trailer" width="220" loading="lazy"></a>
+
+  - **Modular underground hangar** — Hangar concept for storage, maintenance, surface access, ventilation and energy interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg" alt="Modular underground hangar" width="220" loading="lazy"></a>
+
+  - **Modular floating airport** — Concept connecting floating modules, airfield spaces, terminals, utilities and maritime access. [Preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/open-modular-mega-floating-airport.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/open-modular-mega-floating-airport.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/open-modular-mega-floating-airport.jpg" alt="Modular floating airport" width="220" loading="lazy"></a>
+
+- **[jfxhms](https://github.com/robotics-intelligent-systems/jfxhms)**
+  - **Large medical support ship** — Ship concept for arranging medical-support spaces and maritime mission interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/large-medical-support-ship-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/large-medical-support-ship-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/large-medical-support-ship-concept.jpg" alt="Large medical support ship" width="220" loading="lazy"></a>
+
+  - **Medical patrol boat** — Small-vessel concept for coastal or river medical-support missions. [Preview](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/medical-patrol-boat-concept.jpg" alt="Medical patrol boat" width="220" loading="lazy"></a>
+
+  - **Modular medical vessel** — Medical-support vessel concept with modular mission spaces and service interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/modular-medical-vessel-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/modular-medical-vessel-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/modular-medical-vessel-concept.jpg" alt="Modular medical vessel" width="220" loading="lazy"></a>
+
+- **[jfxai4ftm](https://github.com/robotics-intelligent-systems/jfxai4ftm)**
+  - **OpenTwin explorer motorhome** — Modular expedition motorhome concept for living-space and mobility studies. [Preview](https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg" alt="OpenTwin explorer motorhome" width="220" loading="lazy"></a>
+
+  - **OpenTwin mini teardrop RV** — Compact modular recreational-trailer concept for packaging and digital-twin exploration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg" alt="OpenTwin mini teardrop RV" width="220" loading="lazy"></a>
+
+  - **Rising-roof expedition motorhome** — Expedition motorhome concept exploring an expandable roof and accommodation layout. [Preview](https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg" alt="Rising-roof expedition motorhome" width="220" loading="lazy"></a>
+
+- **[jfxai4moms](https://github.com/robotics-intelligent-systems/jfxai4moms)**
+  - **Floating dry dock** — Dock concept integrating maintenance areas, cranes, keel supports, ballast and logistics. [Preview](https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/floating-dry-dock-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/floating-dry-dock-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/floating-dry-dock-concept.jpg" alt="Floating dry dock" width="220" loading="lazy"></a>
+
+  - **Offshore platform** — Self-elevating platform concept with working deck, accommodation, utilities and subsea interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/offshore-platform-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/offshore-platform-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/offshore-platform-concept.jpg" alt="Offshore platform" width="220" loading="lazy"></a>
+
+  - **OpenTwin Ocean Mining research vehicle** — Cutaway concept of an uncrewed research vehicle for prospecting, sampling and environmental observation. [Preview](https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg" alt="OpenTwin Ocean Mining research vehicle" width="220" loading="lazy"></a>
+
+- **[jfxmbdss](https://github.com/robotics-intelligent-systems/jfxmbdss)**
+  - **Hydrogen-hybrid amphibious transport** — High-wing cargo-aircraft concept with electric propulsion and twin floats. [Preview](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg" alt="Hydrogen-hybrid amphibious transport" width="220" loading="lazy"></a>
+
+  - **OpenTwin Marine ground-effect platform** — Waterborne transport concept with a broad wing and interchangeable mission modules. [Preview](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/liberty-lifter-seaplane-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/liberty-lifter-seaplane-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/liberty-lifter-seaplane-concept.jpg" alt="OpenTwin Marine ground-effect platform" width="220" loading="lazy"></a>
+
+  - **Mobile offshore base** — Floating-base concept for modular logistics and offshore-support spaces. [Preview](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/mobile-offshore-base-digital-twin.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/mobile-offshore-base-digital-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/mobile-offshore-base-digital-twin.jpg" alt="Mobile offshore base" width="220" loading="lazy"></a>
+
+  - **OpenTwin USV H2** — Uncrewed surface-vessel concept combining cargo handling, hydrogen energy and supervised research. [Preview](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/opentwin-usv-h2-digital-twin-cutaway-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/opentwin-usv-h2-digital-twin-cutaway-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxmbdss/main/MBSE/CAD/opentwin-usv-h2-digital-twin-cutaway-concept.jpg" alt="OpenTwin USV H2" width="220" loading="lazy"></a>
+
+- **[jfxnpss](https://github.com/robotics-intelligent-systems/jfxnpss)**
+  - **Modular reusable aerospace shuttle** — Reusable-shuttle concept for high-level mission and subsystem integration studies. [Preview](https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/modular-reusable-aerospace-shuttle-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/modular-reusable-aerospace-shuttle-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxnpss/main/MBSE/CAD/modular-reusable-aerospace-shuttle-concept.jpg" alt="Modular reusable aerospace shuttle" width="220" loading="lazy"></a>
+
+  - **Supersonic freighter** — Freighter concept for exploring aerospace configuration and cargo packaging; performance remains unverified. [Preview](https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/supersonic-freighter-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/supersonic-freighter-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxnpss/main/MBSE/CAD/supersonic-freighter-digital-twin-concept.jpg" alt="Supersonic freighter" width="220" loading="lazy"></a>
+
+  - **Supersonic research demonstrator** — Research-aircraft concept for studying configuration and simulation requirements. [Preview](https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/supersonic-research-demonstrator.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxnpss/blob/main/MBSE/CAD/supersonic-research-demonstrator.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxnpss/main/MBSE/CAD/supersonic-research-demonstrator.jpg" alt="Supersonic research demonstrator" width="220" loading="lazy"></a>
+
+- **[jfxjts](https://github.com/robotics-intelligent-systems/jfxjts)**
+  - **Hybrid-electric amphibious aircraft** — Modular aircraft concept connecting amphibious configuration and hybrid-electric integration. [Preview](https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/modular-hybrid-electric-amphibious-aircraft.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/modular-hybrid-electric-amphibious-aircraft.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/modular-hybrid-electric-amphibious-aircraft.jpg" alt="Hybrid-electric amphibious aircraft" width="220" loading="lazy"></a>
+
+  - **Hybrid STOL air taxi** — Air-taxi concept for exploring short-field mission requirements and modular integration. [Preview](https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/modular-hybrid-stol-air-taxi.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/modular-hybrid-stol-air-taxi.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/modular-hybrid-stol-air-taxi.jpg" alt="Hybrid STOL air taxi" width="220" loading="lazy"></a>
+
+  - **OpenTwin LH2 hybrid helicopter** — Helicopter concept for hydrogen-energy packaging and hybrid-propulsion interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/opentwin-lh2-hybrid-helicopter-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/opentwin-lh2-hybrid-helicopter-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/opentwin-lh2-hybrid-helicopter-digital-twin-concept.jpg" alt="OpenTwin LH2 hybrid helicopter" width="220" loading="lazy"></a>
+
+  - **Robotic motion simulator** — Motion-platform concept for studying simulator hardware and training interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/robotic-motion-simulator.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxjts/blob/main/MBSE/CAD/robotic-motion-simulator.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxjts/main/MBSE/CAD/robotic-motion-simulator.jpg" alt="Robotic motion simulator" width="220" loading="lazy"></a>
+
+- **[jfxai4mss](https://github.com/robotics-intelligent-systems/jfxai4mss)**
+  - **Amphibious recreational vehicle** — RV concept connecting accommodation, road mobility and water-mode requirements. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/amphibious-rv-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/amphibious-rv-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mss/main/MBSE/CAD/amphibious-rv-concept.jpg" alt="Amphibious recreational vehicle" width="220" loading="lazy"></a>
+
+  - **River cruiser** — River-vessel concept for studying passenger spaces and maritime integration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/river-cruiser-ship-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/river-cruiser-ship-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mss/main/MBSE/CAD/river-cruiser-ship-concept.jpg" alt="River cruiser" width="220" loading="lazy"></a>
+
+  - **Solar amphibious catamaran** — Catamaran concept connecting amphibious mobility and solar-energy integration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mss/blob/main/MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mss/main/MBSE/CAD/solar-powered-amphibious-catamaran-concept.jpg" alt="Solar amphibious catamaran" width="220" loading="lazy"></a>
+
+- **[jfxai4mjas](https://github.com/robotics-intelligent-systems/jfxai4mjas)**
+  - **OpenTwin H2 seaglider and floating hangar** — Waterborne-aircraft and hangar concept linking electric propulsion, energy logistics and moorings. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/opentwin-h2-seaglider-floating-hangar-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/opentwin-h2-seaglider-floating-hangar-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mjas/main/MBSE/CAD/opentwin-h2-seaglider-floating-hangar-digital-twin-concept.jpg" alt="OpenTwin H2 seaglider and floating hangar" width="220" loading="lazy"></a>
+
+  - **OpenTwin MAD LH2** — Compact personal-aircraft cutaway exploring hydrogen storage, fuel cells, batteries and avionics interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/opentwin-mad-lh2-digital-twin-cutaway-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/opentwin-mad-lh2-digital-twin-cutaway-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mjas/main/MBSE/CAD/opentwin-mad-lh2-digital-twin-cutaway-concept.jpg" alt="OpenTwin MAD LH2" width="220" loading="lazy"></a>
+
+  - **OpenTwin AirJet BWB cargo UAV** — Blended-wing-body cargo concept with modular payloads and electric-propulsion energy interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/uav-cargo-bwb-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mjas/blob/main/MBSE/CAD/uav-cargo-bwb-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mjas/main/MBSE/CAD/uav-cargo-bwb-concept.jpg" alt="OpenTwin AirJet BWB cargo UAV" width="220" loading="lazy"></a>
+
+- **[jfxai4mass](https://github.com/robotics-intelligent-systems/jfxai4mass)**
+  - **OpenTwin amphibious agricultural UGV** — Uncrewed agricultural-vehicle concept for modular field operations and amphibious mobility studies. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-amphibious-ugv-agricultural-robot-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-amphibious-ugv-agricultural-robot-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mass/main/MBSE/CAD/opentwin-amphibious-ugv-agricultural-robot-digital-twin-concept.jpg" alt="OpenTwin amphibious agricultural UGV" width="220" loading="lazy"></a>
+
+  - **OpenTwin Explorer habitat** — Habitat concept exploring mobile and fixed configurations and service interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-explorer-mobile-fixed-habitat-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-explorer-mobile-fixed-habitat-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mass/main/MBSE/CAD/opentwin-explorer-mobile-fixed-habitat-digital-twin-concept.jpg" alt="OpenTwin Explorer habitat" width="220" loading="lazy"></a>
+
+  - **OpenTwin modular protected truck** — Protected-truck concept for studying vehicle packaging and modular mission interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mass/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg" alt="OpenTwin modular protected truck" width="220" loading="lazy"></a>
+
+- **[jfxai4scss](https://github.com/robotics-intelligent-systems/jfxai4scss)**
+  - **Modular hydrogen airship** — Airship concept with twin-turbine imagery; the asset alone does not establish hydrogen's technical role. [Preview](https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-airship-with-twin-turbines.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-airship-with-twin-turbines.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4scss/main/MBSE/CAD/modular-hydrogen-airship-with-twin-turbines.jpg" alt="Modular hydrogen airship" width="220" loading="lazy"></a>
+
+  - **Modular hydrogen-electric helicopter** — Aerial-platform concept for exploring hydrogen-electric subsystem integration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4scss/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg" alt="Modular hydrogen-electric helicopter" width="220" loading="lazy"></a>
+
+  - **Solar HAPS glider** — High-altitude aerial-platform concept for solar-energy and mission studies, stored in the satellite portfolio project. [Preview](https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/solar-haps-glider-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/solar-haps-glider-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4scss/main/MBSE/CAD/solar-haps-glider-concept.jpg" alt="Solar HAPS glider" width="220" loading="lazy"></a>
+
+- **[jfxai4mlrss](https://github.com/robotics-intelligent-systems/jfxai4mlrss)**
+  - **Modular air launch** — High-level air-launch concept for mission architecture and simulation studies. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/modular-air-launch-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/modular-air-launch-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mlrss/main/MBSE/CAD/modular-air-launch-concept.jpg" alt="Modular air launch" width="220" loading="lazy"></a>
+
+  - **Modular rocket** — Launch-vehicle concept for studying module boundaries and requirements traceability. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/modular-rocket-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/modular-rocket-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mlrss/main/MBSE/CAD/modular-rocket-concept.jpg" alt="Modular rocket" width="220" loading="lazy"></a>
+
+  - **Multi-body launch configuration** — Multi-body launch concept for high-level configuration and interface exploration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/multibody-launch-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mlrss/blob/main/MBSE/CAD/multibody-launch-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mlrss/main/MBSE/CAD/multibody-launch-concept.jpg" alt="Multi-body launch configuration" width="220" loading="lazy"></a>
+
+- **[jfxai4mess](https://github.com/robotics-intelligent-systems/jfxai4mess)**
+  - **Coastal hydrogen energy hub** — Concept linking electricity, water treatment, electrolysis, gaseous storage, distribution and fuel cells. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/coastal-hydrogen-energy-hub-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/coastal-hydrogen-energy-hub-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mess/main/MBSE/CAD/coastal-hydrogen-energy-hub-concept.jpg" alt="Coastal hydrogen energy hub" width="220" loading="lazy"></a>
+
+  - **Floating tidal-energy platform** — Tidal-stream concept with submerged turbines, moorings, export cables and maintenance interfaces. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/floating-tidal-energy-concept.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/floating-tidal-energy-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mess/main/MBSE/CAD/floating-tidal-energy-concept.jpg" alt="Floating tidal-energy platform" width="220" loading="lazy"></a>
+
+  - **Modular floating wind** — Wind-platform concept integrating a turbine, buoyancy structures, moorings and electrical export. [Preview](https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/modular-floating-wind-digital-twin.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4mess/blob/main/MBSE/CAD/modular-floating-wind-digital-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mess/main/MBSE/CAD/modular-floating-wind-digital-twin.jpg" alt="Modular floating wind" width="220" loading="lazy"></a>
+
+- **[jfxai4nhes](https://github.com/robotics-intelligent-systems/jfxai4nhes)**
+  - **Nuclear-electric ocean research vessel** — Research-vessel concept for high-level energy and maritime integration studies. [Preview](https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/nuclear-electric-ocean-research-vessel.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/nuclear-electric-ocean-research-vessel.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4nhes/main/MBSE/CAD/nuclear-electric-ocean-research-vessel.jpg" alt="Nuclear-electric ocean research vessel" width="220" loading="lazy"></a>
+
+  - **Modular floating energy platform** — Floating energy-infrastructure concept for module and service-interface exploration. [Preview](https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/open-modular-floating-energy-twin.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/open-modular-floating-energy-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4nhes/main/MBSE/CAD/open-modular-floating-energy-twin.jpg" alt="Modular floating energy platform" width="220" loading="lazy"></a>
+
+  - **Modular subsea energy platform** — Subsea energy concept for high-level packaging and digital-twin requirements. [Preview](https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/open-modular-subsea-energy-twin.jpg).
+
+    <a href="https://github.com/robotics-intelligent-systems/jfxai4nhes/blob/main/MBSE/CAD/open-modular-subsea-energy-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4nhes/main/MBSE/CAD/open-modular-subsea-energy-twin.jpg" alt="Modular subsea energy platform" width="220" loading="lazy"></a>
+
+### Projects awaiting CAD concept images
+
+- [jfxai4rss](https://github.com/robotics-intelligent-systems/jfxai4rss) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4rpcs](https://github.com/robotics-intelligent-systems/jfxai4rpcs) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4rffs](https://github.com/robotics-intelligent-systems/jfxai4rffs) — No concept images found in `MBSE/CAD` during this review.
+- [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) — No concept images found in `MBSE/CAD` during this review.
+- [jfxlms4air](https://github.com/robotics-intelligent-systems/jfxlms4air) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4ceps](https://github.com/robotics-intelligent-systems/jfxai4ceps) — No concept images found in `MBSE/CAD` during this review.
+- [jfxscada](https://github.com/robotics-intelligent-systems/jfxscada) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4arch](https://github.com/robotics-intelligent-systems/jfxai4arch) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4bio](https://github.com/robotics-intelligent-systems/jfxai4bio) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4cv](https://github.com/robotics-intelligent-systems/jfxai4cv) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4nlp](https://github.com/robotics-intelligent-systems/jfxai4nlp) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4cbs](https://github.com/robotics-intelligent-systems/jfxai4cbs) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4rs](https://github.com/robotics-intelligent-systems/jfxai4rs) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4mar](https://github.com/robotics-intelligent-systems/jfxai4mar) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4bpm](https://github.com/robotics-intelligent-systems/jfxai4bpm) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4ats](https://github.com/robotics-intelligent-systems/jfxai4ats) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4obs](https://github.com/robotics-intelligent-systems/jfxai4obs) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4ohs](https://github.com/robotics-intelligent-systems/jfxai4ohs) — No concept images found in `MBSE/CAD` during this review.
+- [jfxbsc](https://github.com/robotics-intelligent-systems/jfxbsc) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4crm](https://github.com/robotics-intelligent-systems/jfxai4crm) — No concept images found in `MBSE/CAD` during this review.
+- [jfxai4rts](https://github.com/robotics-intelligent-systems/jfxai4rts) — No concept images found in `MBSE/CAD` during this review.
+- [jfxoqss](https://github.com/robotics-intelligent-systems/jfxoqss) — No concept images found in `MBSE/CAD` during this review.
+- [jfxoss](https://github.com/robotics-intelligent-systems/jfxoss) — No concept images found in `MBSE/CAD` during this review.
+- [jfxorss](https://github.com/robotics-intelligent-systems/jfxorss) — No concept images found in `MBSE/CAD` during this review.
+- [jfxcms](https://github.com/robotics-intelligent-systems/jfxcms) — No concept images found in `MBSE/CAD` during this review.
+- [jfxlms](https://github.com/robotics-intelligent-systems/jfxlms) — No concept images found in `MBSE/CAD` during this review.
+- [jfxnms](https://github.com/robotics-intelligent-systems/jfxnms) — No concept images found in `MBSE/CAD` during this review.
 
 ## Shared Services and Integration Priorities
 
