@@ -69,6 +69,7 @@ measured completion percentages, effort estimates or delivery commitments.
 | --- | --- | --- |
 | Concept · ~10% | `█░░░░░░░░░` | Scope described; executable implementation not established |
 | Architecture · ~20% | `██░░░░░░░░` | Design documents, contracts or architecture assets |
+| Contract harness · ~30% | `███░░░░░░░` | Executable bounded scenario/interface checks; simulator integration pending |
 | Pilot · ~50% | `█████░░░░░` | Executable bounded pilot documented; broader validation pending |
 | Validated MVP · ~80% | `████████░░` | Reproducible end-to-end acceptance evidence |
 | Released scope · 100% | `██████████` | Declared MVP scope accepted and released |
@@ -136,12 +137,17 @@ and acceptance evidence. This snapshot is updated manually as milestones change.
 | --- | --- | --- | --- | --- |
 | [jfxmbdss](https://github.com/robotics-intelligent-systems/jfxmbdss) | OpenTwin MBDSS: maritime digital twins, distributed simulation and AI-assisted analysis | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one archived maritime simulation job with provenance and replay checks. |
 | [jfxnpss](https://github.com/robotics-intelligent-systems/jfxnpss) | Jet propulsion and engine modeling | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one propulsion-model comparison with units and reference-result checks. |
-| [jfxjts](https://github.com/robotics-intelligent-systems/jfxjts) | Reconfigurable jet training concepts for air ambulance and search-and-rescue services | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one virtual training scenario with instructor controls and replay checks. |
+| [jfxjts](https://github.com/robotics-intelligent-systems/jfxjts) | Civil flight training and mission-simulation architecture | Scenario + executable contract harness; 13 tests passed | `███░░░░░░░` ~30% | Implement one qualified civilian flight-model adapter with pinned provenance, SI/frame checks and recorded replay tolerances. |
 | [jfxai4mss](https://github.com/robotics-intelligent-systems/jfxai4mss) | Marine systems and control simulation | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one marine model exchange with units and solver compatibility checks. |
 | [jfxai4mjas](https://github.com/robotics-intelligent-systems/jfxai4mjas) | Transient simulation of reconfigurable models | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one versioned aircraft-model contract and offline validation fixture. |
 | [jfxai4mass](https://github.com/robotics-intelligent-systems/jfxai4mass) | Automotive and driving simulation | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one recorded mobility scenario and reproducible evaluation criteria. |
 | [jfxai4scss](https://github.com/robotics-intelligent-systems/jfxai4scss) | Small-satellite simulation | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one archived satellite-simulation artifact schema and replay checks. |
 | [jfxai4mlrss](https://github.com/robotics-intelligent-systems/jfxai4mlrss) | Spaceflight, modular launch-system and mission-simulation research | Architecture / documentation | `██░░░░░░░░` ~20% | Draft a simulation-artifact catalog with provenance and reproducibility checks. |
+
+[JFXJTS scenario delivery](https://github.com/robotics-intelligent-systems/jfxjts/blob/main/docs/training/civil-navigation-interruption.md)
+· [Validation evidence](https://github.com/robotics-intelligent-systems/jfxjts/blob/main/docs/training/validation-2026-10-10.md)
+— instructor controls and synthetic replay checks delivered on 2026-10-10.
+The ~30% estimate reflects contract maturity; flight dynamics and simulator integration remain pending.
 
 ### Energy and Scientific Modeling
 
