@@ -23,6 +23,8 @@ pilots and validated integrations are distinguished by repository evidence.
 
 ## Explore
 
+- [Public projects and AI-assisted backlog](#public-projects-and-ai-assisted-backlog)
+
 - [CAD Concept Gallery](#cad-concept-gallery)
 
 - [Our Focus](#our-focus)
@@ -40,6 +42,10 @@ pilots and validated integrations are distinguished by repository evidence.
 - [Technology and Architecture](#technology-and-architecture)
 - [Getting Started](#getting-started)
 - [Contributing and Collaboration](#contributing-and-collaboration)
+
+## Public projects and AI-assisted backlog
+
+[Complete Markdown register](https://github.com/robotics-intelligent-systems/.github/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-11: **76 public projects** (29 personal and 47 organizational), **74 open issues**, **2 project drafts** and the specification audit for **62 CAD concepts**. The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
 
 ## Our Focus
 
@@ -79,8 +85,9 @@ measured completion percentages, effort estimates or delivery commitments.
 **N/A** means a local integration milestone is not defined or inherited source
 has not been assessed. Upstream maturity does not measure this portfolio's work.
 Tasks are **AI-assisted proposals**, inferred from documented scope and gaps,
-rather than an approved issue backlog. Maintainers review generated artifacts
-and acceptance evidence. This snapshot is updated manually as milestones change.
+now registered as initial work items in the linked public-project register.
+Registration does not establish accepted implementation or delivery commitments.
+Maintainers review generated artifacts and acceptance evidence. This snapshot is updated manually as milestones change.
 
 ### Robotics and Industrial Simulation
 
