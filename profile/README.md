@@ -1,3 +1,6 @@
+Warning: truncated output (original token count: 18783)
+Total output lines: 509
+
 # Robotics & Intelligent Systems
 
 **Robotics · Engineering simulation · Digital twins · Technical AI · Domain integration**
@@ -99,7 +102,7 @@ Maintainers review generated artifacts and acceptance evidence. This snapshot is
 | [jfxai4rffs](https://github.com/robotics-intelligent-systems/jfxai4rffs) | Robotic firefighting systems and simulation | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one virtual training scenario and instructor-reviewed acceptance cases. |
 | [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | Microfactory engineering, manufacturing simulation and operator decision-support architecture | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one inventory/production scenario with baseline optimization checks. |
 | [jfxlms4air](https://github.com/robotics-intelligent-systems/jfxlms4air) | Localization and mapping for autonomous inspection robots | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one recorded inspection dataset and localization evaluation protocol. |
-| [jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess) | Real-time simulation, testing and rapid control prototyping | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one model-in-the-loop test with timing and artifact provenance. |
+| [jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess) | Real-time simulation, testing and rapid control prototyping | RTESS-SIM-001: [PR #3](https://github.com/robotics-intelligent-systems/jfxrtess/pull/3) in draft review; modular CAD, scientific-model and SysML specifications; MIL execution pending | `██░░░░░░░░` ~20% | RTESS-SIM-002: implement a synthetic AM-S MIL fixture, analytic comparisons, invalid/stale guards and reproducible evidence. |
 | [jfxai4ceps](https://github.com/robotics-intelligent-systems/jfxai4ceps) | Chemical and process simulation | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one process-model contract with units, balances and solver checks. |
 | [jfxscada](https://github.com/robotics-intelligent-systems/jfxscada) | Supervisory control and data acquisition | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one read-only telemetry adapter and replayable alarm fixture. |
 
@@ -176,6 +179,25 @@ The ~30% estimate reflects contract maturity; flight dynamics and simulator inte
 | [jfxlms](https://github.com/robotics-intelligent-systems/jfxlms) | Learning management systems | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one course/enrollment adapter and grade-persistence checks. |
 | [jfxnms](https://github.com/robotics-intelligent-systems/jfxnms) | Network management systems | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one read-only network inventory contract and telemetry replay fixture. |
 
+## Complexity, budgets and AI-assisted simulation
+
+[47-project categorized planning register](../docs/portfolio-complexity-budget-simulation.md), reviewed 2026-10-11. Physical investment and a bounded simulation phase use separate estimates. Own planning assumptions, not quotations or validated funding needs.
+
+| Category | Simulation with AI | Economic simulation budget | Physical scope |
+| --- | --- | --- | --- |
+| C1: discrete workflows | 2–4 weeks | S/2.438–5.125 | Software/data scenarios |
+| C2: one scientific model/adapter; JFXRTESS first case | 4–8 weeks | S/4.750–10.125 | Existing PC/MIL; HIL and vehicle costs separate |
+| C3: coupled subsystems | 8–16 weeks | S/18.125–40.000 | Experimental vehicles, robotics, pilots |
+| C4: specialized multiphysics | 16–32 weeks | S/40.000–96.250 | Aircraft/maritime/space configurations |
+| C5: integrated infrastructure/energy | 24–48 weeks | S/152.000–366.500 | Large physical programs may require billions of soles |
+| C6: nuclear research modeling | 36–72 weeks | S/388.625–939.750 | Example 1 GW FOAK overnight: S/22,8–38 billion at assumed FX |
+
+One bounded scenario per project, not an entire platform. Weeks assume the staffing and data readiness in the register. JFXRTESS cash spending can be S/750–2.125 if the contributor supplies labor and a PC; economic cost includes labor. No physical simulation acceptance or capital commitment is implied.
+
+OpenAI [pricing](https://learn.chatgpt.com/docs/pricing): Plus USD 20/month; Pro starts at USD 100/month; Enterprise is quoted. S/100/month is a planning reserve for an individual entry plan, not an Enterprise or Pro price. [Model guidance](https://learn.chatgpt.com/docs/models): GPT-6.1 Sol for repeated engineering work, Luna for bounded extraction, Astra for demanding review when available. AI and scientific compute have separate costs and limits.
+
+Next selected package: **RTESS-SIM-001**, documented for review; next executable iteration: **RTESS-SIM-002**. Global maturity remains ~20% editorial until implementation evidence supports a change.
+
 ## CAD Concept Gallery
 
 Reviewed on **2026-10-11** across all **47 projects in the JFX project catalog**: **20 projects contain 62 concept images** in `MBSE/CAD`; 27 have no images in that directory. This scope covers the profile's JFX portfolio, not every fork or reference repository in the organization.
@@ -218,50 +240,7 @@ These are visual concept studies, not verified CAD geometry or demonstrated perf
 
 | Concept and description | Preview |
 | :--- | :---: |
-| **Multi-level floating farm**<br>Stacked growing-space concept integrating marine structures, utilities and agricultural logistics. | <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg" alt="Multi-level floating farm" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg) |
-| **Floating farm**<br>Concept connecting floating agriculture, fish production, renewable supply and shore operations. | <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/floating-farm-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/floating-farm-concept.jpg" alt="Floating farm" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/floating-farm-concept.jpg) |
-| **Modular floating farm island**<br>Terraced agriculture concept with modular structures and resource-loop interfaces. | <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg" alt="Modular floating farm island" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/modular-floating-farm-island-digital-twin.jpg) |
-| **Offshore blue-economy twins**<br>Concept board connecting floating infrastructure, aquaculture, support vessels and digital replicas. | <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg" alt="Offshore blue-economy twins" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/offshore-blue-economy-open-source-digital-twins-concept-v1.jpg) |
-
-### [jfxai4bss](https://github.com/robotics-intelligent-systems/jfxai4bss)
-
-| Concept and description | Preview |
-| :--- | :---: |
-| **Floating offshore stadium**<br>Floating venue concept for event spaces, hospitality, docking and shared services. | <a href="https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/floating-offshore-stadium-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/floating-offshore-stadium-concept.jpg" alt="Floating offshore stadium" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/floating-offshore-stadium-concept.jpg) |
-| **Modular floating community**<br>Housing and shared-services concept; the source filename does not establish hurricane resistance. | <a href="https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg" alt="Modular floating community" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/hurricane-proof-self-elevating-floating-house-boat-concept.jpg) |
-| **Modular offshore platform**<br>Platform concept integrating living, operations, research, lifting and mission-module spaces. | <a href="https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4bss/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg" alt="Modular offshore platform" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4bss/blob/main/MBSE/CAD/self-propelled-twin-hulled-semi-submersible-platform.jpg) |
-
-### [jfxotbs](https://github.com/robotics-intelligent-systems/jfxotbs)
-
-| Concept and description | Preview |
-| :--- | :---: |
-| **OpenTwin VTOL Rescue LH2**<br>Cutaway rescue-aircraft concept integrating a modular bay, hydrogen storage, fuel cells and electric propulsion. | <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg" alt="OpenTwin VTOL Rescue LH2" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/OpenTwin_VTOL_Rescue_LH2_Cutaway_Concept_v1.jpg) |
-| **Modular GCS trailer**<br>Mobile ground-control and simulation-station concept for equipment and operator-space integration. | <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg" alt="Modular GCS trailer" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/jfxotbs-modular-gcs-trailer-digital-twin-simulation-concept-v1.jpg) |
-| **Modular underground hangar**<br>Hangar concept for storage, maintenance, surface access, ventilation and energy interfaces. | <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg" alt="Modular underground hangar" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/modular-underground-hangar-digital-twin.jpg) |
-| **Modular floating airport**<br>Concept connecting floating modules, airfield spaces, terminals, utilities and maritime access. | <a href="https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/open-modular-mega-floating-airport.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxotbs/main/MBSE/CAD/open-modular-mega-floating-airport.jpg" alt="Modular floating airport" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxotbs/blob/main/MBSE/CAD/open-modular-mega-floating-airport.jpg) |
-
-### [jfxhms](https://github.com/robotics-intelligent-systems/jfxhms)
-
-| Concept and description | Preview |
-| :--- | :---: |
-| **Large medical support ship**<br>Ship concept for arranging medical-support spaces and maritime mission interfaces. | <a href="https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/large-medical-support-ship-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/large-medical-support-ship-concept.jpg" alt="Large medical support ship" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/large-medical-support-ship-concept.jpg) |
-| **Medical patrol boat**<br>Small-vessel concept for coastal or river medical-support missions. | <a href="https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/medical-patrol-boat-concept.jpg" alt="Medical patrol boat" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg) |
-| **Modular medical vessel**<br>Medical-support vessel concept with modular mission spaces and service interfaces. | <a href="https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/modular-medical-vessel-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxhms/main/MBSE/CAD/modular-medical-vessel-concept.jpg" alt="Modular medical vessel" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/modular-medical-vessel-concept.jpg) |
-
-### [jfxai4ftm](https://github.com/robotics-intelligent-systems/jfxai4ftm)
-
-| Concept and description | Preview |
-| :--- | :---: |
-| **OpenTwin explorer motorhome**<br>Modular expedition motorhome concept for living-space and mobility studies. | <a href="https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg" alt="OpenTwin explorer motorhome" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-explorer-motorhome-digital-twin-concept.jpg) |
-| **OpenTwin mini teardrop RV**<br>Compact modular recreational-trailer concept for packaging and digital-twin exploration. | <a href="https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg" alt="OpenTwin mini teardrop RV" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/opentwin-modular-mini-teardrop-rv-digital-twin-concept.jpg) |
-| **Rising-roof expedition motorhome**<br>Expedition motorhome concept exploring an expandable roof and accommodation layout. | <a href="https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4ftm/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg" alt="Rising-roof expedition motorhome" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4ftm/blob/main/MBSE/CAD/rising-roof-expedition-motorhome.jpg) |
-
-### [jfxai4moms](https://github.com/robotics-intelligent-systems/jfxai4moms)
-
-| Concept and description | Preview |
-| :--- | :---: |
-| **Floating dry dock**<br>Dock concept integrating maintenance areas, cranes, keel supports, ballast and logistics. | <a href="https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/floating-dry-dock-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/floating-dry-dock-concept.jpg" alt="Floating dry dock" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/floating-dry-dock-concept.jpg) |
-| **Offshore platform**<br>Self-elevating platform concept with working deck, accommodation, utilities and subsea interfaces. | <a href="https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/offshore-platform-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/offshore-platform-concept.jpg" alt="Offshore platform" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/offshore-platform-concept.jpg) |
+| **Multi-level floating farm**<br>Stacked growing-space concept integrating marine structures, utilities and agricultural logistics. | <a href="https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxfmis/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jpg" alt="Multi-level floating farm" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxfmis/blob/main/MBSE/CAD/Overall-3D-view-of-the-Proposed-Multi-level-Floating-Farm-MFF.jp…2783 tokens truncated… preview](https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/offshore-platform-concept.jpg) |
 | **OpenTwin Ocean Mining research vehicle**<br>Cutaway concept of an uncrewed research vehicle for prospecting, sampling and environmental observation. | <a href="https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4moms/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg" alt="OpenTwin Ocean Mining research vehicle" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4moms/blob/main/MBSE/CAD/opentwin-ocean-mining-digital-twin-cutaway-concept.jpg) |
 
 ### [jfxmbdss](https://github.com/robotics-intelligent-systems/jfxmbdss)
@@ -487,3 +466,6 @@ issues. Browse the [organization repositories](https://github.com/orgs/robotics-
 to find the closest domain.
 
 **Model before integration. Validate with evidence. Keep components replaceable.**
+
+
+**2026-10-11 — RTESS-SIM-001.** [PR #3](https://github.com/robotics-intelligent-systems/jfxrtess/pull/3) adds requirements, four Mermaid diagrams and eight native Draw.io pages. [Issue #2](https://github.com/robotics-intelligent-systems/jfxrtess/issues/2) tracks documentation review in [Project 10](https://github.com/orgs/robotics-intelligent-systems/projects/10). The 47-project portfolio now separates physical capital from simulation costs. Next: RTESS-SIM-002, execute a labelled synthetic AM-S fixture and capture reproducible evidence. Simulation remains unexecuted; maturity stays at ~20%.
