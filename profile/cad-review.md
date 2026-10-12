@@ -8,7 +8,7 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4rss](https://github.com/robotics-intelligent-systems/jfxai4rss) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rss) |
 | [jfxai4rpcs](https://github.com/robotics-intelligent-systems/jfxai4rpcs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rpcs) |
 | [jfxai4rffs](https://github.com/robotics-intelligent-systems/jfxai4rffs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rffs) |
-| [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxosms) |
+| [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | 1 | [Repository](https://github.com/robotics-intelligent-systems/jfxosms) |
 | [jfxlms4air](https://github.com/robotics-intelligent-systems/jfxlms4air) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxlms4air) |
 | [jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxrtess) |
 | [jfxai4ceps](https://github.com/robotics-intelligent-systems/jfxai4ceps) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4ceps) |
@@ -51,3 +51,8 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxcms](https://github.com/robotics-intelligent-systems/jfxcms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxcms) |
 | [jfxlms](https://github.com/robotics-intelligent-systems/jfxlms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxlms) |
 | [jfxnms](https://github.com/robotics-intelligent-systems/jfxnms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxnms) |
+
+
+## Scoped JFXOSMS update · 2026-10-12
+
+The current repository tree contains one Plant S concept image in MBSE/CAD. The profile catalog adds that image and links the proposed requirements/Drawio views. Other rows retain their original review baseline; this is not a fresh organization-wide audit.
