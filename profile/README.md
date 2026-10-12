@@ -48,7 +48,7 @@ pilots and validated integrations are distinguished by repository evidence.
 
 ## Public projects and AI-assisted backlog
 
-[Complete Markdown register](https://github.com/robotics-intelligent-systems/.github/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-11: **76 public projects** (29 personal and 47 organizational), **75 open issues**, **1 project draft** and the specification audit for **62 CAD concepts**. The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
+[Complete Markdown register](https://github.com/robotics-intelligent-systems/.github/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-11: **76 public projects** (29 personal and 47 organizational), **75 open issues**, **1 project draft** and the specification audit for **64 CAD concepts**. The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
 
 ## Our Focus
 
@@ -200,15 +200,17 @@ Next selected package: **RTESS-SIM-001**, documented for review; next executable
 
 ## CAD Concept Gallery
 
-Reviewed on **2026-10-11** across all **47 projects in the JFX project catalog**: **20 projects contain 62 concept images** in `MBSE/CAD`; 27 have no images in that directory. This scope covers the profile's JFX portfolio, not every fork or reference repository in the organization.
+Reviewed on **2026-10-11** across all **47 projects in the JFX project catalog**: **20 projects contain 64 concept images** in `MBSE/CAD`; 27 have no images in that directory. This scope covers the profile's JFX portfolio, not every fork or reference repository in the organization.
 
 These are visual concept studies, not verified CAD geometry or demonstrated performance. Descriptions follow repository documentation where available and otherwise describe the asset's named subject conservatively. Each project groups its concepts into two columns: name and description on the left, linked thumbnail on the right. Click a thumbnail or **Open preview** to open the source image. [Review coverage](cad-review.md).
 
 ### [jfxai4mhers](https://github.com/robotics-intelligent-systems/jfxai4mhers)
 
-| Concept and description | Preview |
-| :--- | :---: |
-| **OpenTwin EXO expedition suit**<br>Modular expedition-suit concept for studying subsystem packaging, interfaces and simulation requirements. | <a href="https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg" alt="OpenTwin EXO expedition suit" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg) |
+| Concept and description | Category / references | Proposed CAD / simulation | Evidence status | Preview |
+| --- | --- | --- | --- | --- |
+| **OpenTwin EXO expedition suit**<br>Modular expedition-suit concept for studying subsystem packaging, interfaces and simulation requirements. | Wearable robotics<br>OpenTwin EXO requirements baseline | Simulation requirements under specification | Visual concept; proposed requirements baseline, evidence pending | <a href="https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg" alt="OpenTwin EXO expedition suit" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg) |
+| **Modular multipurpose industrial arm**<br>Six-axis arm concept with replaceable joint cartridges, interchangeable links and gripper, vacuum, screwdriver and inspection tools. | Industrial manipulation<br>PAROL6 · AR4-HMI · OpenArm | FreeCAD → URDF/Xacro → ROS 2 / ros2_control → Gazebo; MuJoCo comparison backend | Visual concept; geometry, integration and performance pending validation | <a href="https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-modular-industrial-arm-digital-twin-concept-v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/jfxai4mhers-modular-industrial-arm-digital-twin-concept-v1.jpg" alt="Modular multipurpose industrial arm" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-modular-industrial-arm-digital-twin-concept-v1.jpg) |
+| **Haptic humanoid with exoskeleton telecontrol**<br>Modular biped concept with upper-body exoskeleton telecontrol, haptic contact feedback and independent local balance control. | Humanoid / haptic teleoperation<br>§7.1: HOPE Jr, OpenLoong, Berkeley Lite, ToddlerBot, AGILOped; WALK-MAN/Centauro robustness references. OpenArm · Open-TeleVision · DOGlove · OpenExo | FreeCAD → URDF/Xacro → ROS 2 / ros2_control → Gazebo; MuJoCo comparison backend | Visual concept; geometry, integration and performance pending validation | <a href="https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-haptic-humanoid-exoskeleton-digital-twin-concept-v1.jpg"><img src="https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/jfxai4mhers-haptic-humanoid-exoskeleton-digital-twin-concept-v1.jpg" alt="Haptic humanoid with exoskeleton telecontrol" width="220"></a><br>[Open preview](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-haptic-humanoid-exoskeleton-digital-twin-concept-v1.jpg) |
 
 ### [jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess)
 

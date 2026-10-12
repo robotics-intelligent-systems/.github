@@ -11,6 +11,28 @@
           "path": "MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg",
           "preview": "https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg",
           "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg"
+        },
+        {
+          "title": "Modular multipurpose industrial arm",
+          "description": "Six-axis arm concept with replaceable joint cartridges, interchangeable links and gripper, vacuum, screwdriver and inspection tools.",
+          "path": "MBSE/CAD/jfxai4mhers-modular-industrial-arm-digital-twin-concept-v1.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-modular-industrial-arm-digital-twin-concept-v1.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/jfxai4mhers-modular-industrial-arm-digital-twin-concept-v1.jpg",
+          "category": "Industrial manipulation",
+          "references": "PAROL6 · AR4-HMI · OpenArm",
+          "simulation": "FreeCAD → URDF/Xacro → ROS 2 / ros2_control → Gazebo; MuJoCo comparison backend",
+          "status": "Visual concept; geometry, integration and performance pending validation"
+        },
+        {
+          "title": "Haptic humanoid with exoskeleton telecontrol",
+          "description": "Modular biped concept with upper-body exoskeleton telecontrol, haptic contact feedback and independent local balance control.",
+          "path": "MBSE/CAD/jfxai4mhers-haptic-humanoid-exoskeleton-digital-twin-concept-v1.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-haptic-humanoid-exoskeleton-digital-twin-concept-v1.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4mhers/main/MBSE/CAD/jfxai4mhers-haptic-humanoid-exoskeleton-digital-twin-concept-v1.jpg",
+          "category": "Humanoid / haptic teleoperation",
+          "references": "§7.1: HOPE Jr, OpenLoong, Berkeley Lite, ToddlerBot, AGILOped; WALK-MAN/Centauro robustness references. OpenArm · Open-TeleVision · DOGlove · OpenExo",
+          "simulation": "FreeCAD → URDF/Xacro → ROS 2 / ros2_control → Gazebo; MuJoCo comparison backend",
+          "status": "Visual concept; geometry, integration and performance pending validation"
         }
       ]
     },

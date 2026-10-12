@@ -101,9 +101,11 @@ New projects use GitHub’s Iterative development views and fields. Open items b
 
 ## CAD Markdown specification audit
 
-All 62 catalogued image paths are present in the reviewed repository trees. Artwork establishes visual intent, not dimensions or verification. This audit concerns dedicated Markdown specifications: README descriptions and Draw.io content may already contain useful requirements and must be reconciled, not discarded.
+All 64 catalogued image paths are present in the reviewed repository trees. Artwork establishes visual intent, not dimensions or verification. This audit concerns dedicated Markdown specifications: README descriptions and Draw.io content may already contain useful requirements and must be reconciled, not discarded.
 
-12 repositories / 39 concepts have no separate requirements Markdown identified; 2 repositories / 6 concepts have partial Markdown packages or indexes; 6 repositories / 17 concepts have dedicated proposed baselines with open decisions and verification work.
+The original 62-concept audit identified 12 repositories / 39 concepts have no separate requirements Markdown identified; 2 repositories / 6 concepts have partial Markdown packages or indexes; 6 repositories / 17 concepts have dedicated proposed baselines with open decisions and verification work.
+
+The two additional jfxai4mhers arm/humanoid artworks are visual concepts with dedicated requirements and simulation evidence pending; they are not covered by the existing expedition-suit baseline.
 
 Required specification content: concept ID and source revision; intended mission and applicability; approved configuration and units/frames; requirement IDs and allocation; interface contracts; measurable acceptance criteria and verification method; TBD decisions with proposed owner and gate; image → requirement → design → evidence traceability. Preserve existing IDs and record conflicts. Quantitative values remain TBD until approved.
 
@@ -112,6 +114,9 @@ Required specification content: concept ID and source revision; intended mission
 Status: **Dedicated proposed baseline exists / approval and evidence pending**. [Public project](https://github.com/orgs/robotics-intelligent-systems/projects/4) · [Open work item](https://github.com/robotics-intelligent-systems/jfxai4mhers/issues/5).
 
 - **[OpenTwin EXO expedition suit](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/h2fly-opentwin-exo-modular-expedition-suit-concept-v3.jpg)** — Modular expedition-suit concept for studying subsystem packaging, interfaces and simulation requirements.
+
+- **[Modular multipurpose industrial arm](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-modular-industrial-arm-digital-twin-concept-v1.jpg)** — Six-axis arm concept with replaceable joint cartridges, interchangeable links and gripper, vacuum, screwdriver and inspection tools. Dedicated requirements and executable simulation remain pending.
+- **[Haptic humanoid with exoskeleton telecontrol](https://github.com/robotics-intelligent-systems/jfxai4mhers/blob/main/MBSE/CAD/jfxai4mhers-haptic-humanoid-exoskeleton-digital-twin-concept-v1.jpg)** — Modular biped concept with upper-body exoskeleton telecontrol, haptic contact feedback and independent local balance control. Dedicated requirements and executable simulation remain pending.
 
 Existing Markdown references:
 
@@ -365,7 +370,7 @@ Existing Markdown references:
 - 76 initial work items confirmed in their project views.
 - 75 issues confirmed open; the remaining llm-d draft includes its description.
 - JFXAI4DIA draft item 268510208 converted in place to issue #2 on 2026-10-11, retaining its description, project membership and Backlog status.
-- 62 CAD artwork links checked against repository trees: none missing.
+- 64 CAD artwork links checked against repository trees: none missing.
 - CAD gaps are recorded in the relevant open work items; specification completion and engineering tests are future work.
 
 Profile source blob revisions: personal `dfcecbebfcd1bbba6d23558a44074b9957ddfccc`; organizational `4dfa0222fbb89c355e65534ffd30e52e76bfefa5`.
