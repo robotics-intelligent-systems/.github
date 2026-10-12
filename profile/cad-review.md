@@ -32,7 +32,7 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4ftm](https://github.com/robotics-intelligent-systems/jfxai4ftm) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4ftm) |
 | [jfxai4ohs](https://github.com/robotics-intelligent-systems/jfxai4ohs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4ohs) |
 | [jfxbsc](https://github.com/robotics-intelligent-systems/jfxbsc) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxbsc) |
-| [jfxai4moms](https://github.com/robotics-intelligent-systems/jfxai4moms) | 1 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4moms) |
+| [jfxai4moms](https://github.com/robotics-intelligent-systems/jfxai4moms) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4moms) |
 | [jfxai4crm](https://github.com/robotics-intelligent-systems/jfxai4crm) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4crm) |
 | [jfxai4rts](https://github.com/robotics-intelligent-systems/jfxai4rts) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rts) |
 | [jfxmbdss](https://github.com/robotics-intelligent-systems/jfxmbdss) | 4 | [Repository](https://github.com/robotics-intelligent-systems/jfxmbdss) |
@@ -61,3 +61,8 @@ The current repository tree contains one Plant S concept image in MBSE/CAD. The 
 ## Infrastructure concept transfer · 2026-10-12
 
 Two unchanged JPG concepts move from JFXAI4MOMS to JFXOSMS: floating dry dock and offshore platform. JFXAI4MOMS retains the Ocean Mining vehicle. Including Plant S, JFXOSMS has three images; JFXAI4MOMS has one. The catalog total stays 65 images across 21 projects; other baseline rows were not re-audited.
+
+
+## Scoped JFXAI4MOMS concept additions · 2026-10-12
+
+The current MBSE/CAD tree contains Ocean Mining plus NEREO v1 and LUMEN-3 v2. Both new JPG paths were verified on main; NEREO and LUMEN-3 are image concepts with proposed free-software simulation, not validated CAD or implemented twins. The catalog now has 67 images across 21 projects; the older 65-image snapshot above describes the prior transfer stage. Other baseline rows were not re-audited.
