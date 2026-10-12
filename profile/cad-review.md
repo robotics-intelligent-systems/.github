@@ -8,7 +8,7 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4rss](https://github.com/robotics-intelligent-systems/jfxai4rss) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rss) |
 | [jfxai4rpcs](https://github.com/robotics-intelligent-systems/jfxai4rpcs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rpcs) |
 | [jfxai4rffs](https://github.com/robotics-intelligent-systems/jfxai4rffs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rffs) |
-| [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxosms) |
+| [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxosms) |
 | [jfxlms4air](https://github.com/robotics-intelligent-systems/jfxlms4air) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxlms4air) |
 | [jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxrtess) |
 | [jfxai4ceps](https://github.com/robotics-intelligent-systems/jfxai4ceps) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4ceps) |
@@ -32,7 +32,7 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4ftm](https://github.com/robotics-intelligent-systems/jfxai4ftm) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4ftm) |
 | [jfxai4ohs](https://github.com/robotics-intelligent-systems/jfxai4ohs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4ohs) |
 | [jfxbsc](https://github.com/robotics-intelligent-systems/jfxbsc) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxbsc) |
-| [jfxai4moms](https://github.com/robotics-intelligent-systems/jfxai4moms) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4moms) |
+| [jfxai4moms](https://github.com/robotics-intelligent-systems/jfxai4moms) | 1 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4moms) |
 | [jfxai4crm](https://github.com/robotics-intelligent-systems/jfxai4crm) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4crm) |
 | [jfxai4rts](https://github.com/robotics-intelligent-systems/jfxai4rts) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rts) |
 | [jfxmbdss](https://github.com/robotics-intelligent-systems/jfxmbdss) | 4 | [Repository](https://github.com/robotics-intelligent-systems/jfxmbdss) |
@@ -51,3 +51,13 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxcms](https://github.com/robotics-intelligent-systems/jfxcms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxcms) |
 | [jfxlms](https://github.com/robotics-intelligent-systems/jfxlms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxlms) |
 | [jfxnms](https://github.com/robotics-intelligent-systems/jfxnms) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxnms) |
+
+
+## Scoped JFXOSMS update · 2026-10-12
+
+The current repository tree contains one Plant S concept image in MBSE/CAD. The profile catalog adds that image and links the proposed requirements/Drawio views. Other rows retain their original review baseline; this is not a fresh organization-wide audit.
+
+
+## Infrastructure concept transfer · 2026-10-12
+
+Two unchanged JPG concepts move from JFXAI4MOMS to JFXOSMS: floating dry dock and offshore platform. JFXAI4MOMS retains the Ocean Mining vehicle. Including Plant S, JFXOSMS has three images; JFXAI4MOMS has one. The catalog total stays 65 images across 21 projects; other baseline rows were not re-audited.
