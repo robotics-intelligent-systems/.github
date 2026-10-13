@@ -18,14 +18,14 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4dia](https://github.com/robotics-intelligent-systems/jfxai4dia) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4dia) |
 | [jfxai4cv](https://github.com/robotics-intelligent-systems/jfxai4cv) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4cv) |
 | [jfxai4nlp](https://github.com/robotics-intelligent-systems/jfxai4nlp) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4nlp) |
-| [jfxai4cbs](https://github.com/robotics-intelligent-systems/jfxai4cbs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4cbs) |
+| [jfxai4cbs](https://github.com/robotics-intelligent-systems/jfxai4cbs) | 2 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4cbs) |
 | [jfxai4rs](https://github.com/robotics-intelligent-systems/jfxai4rs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rs) |
 | [jfxai4mar](https://github.com/robotics-intelligent-systems/jfxai4mar) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mar) |
 | [jfxai4mad](https://github.com/robotics-intelligent-systems/jfxai4mad) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mad) |
 | [jfxfmis](https://github.com/robotics-intelligent-systems/jfxfmis) | 4 | [Repository](https://github.com/robotics-intelligent-systems/jfxfmis) |
 | [jfxai4bss](https://github.com/robotics-intelligent-systems/jfxai4bss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4bss) |
 | [jfxotbs](https://github.com/robotics-intelligent-systems/jfxotbs) | 4 | [Repository](https://github.com/robotics-intelligent-systems/jfxotbs) |
-| [jfxhms](https://github.com/robotics-intelligent-systems/jfxhms) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxhms) |
+| [jfxhms](https://github.com/robotics-intelligent-systems/jfxhms) | 2 | [Repository](https://github.com/robotics-intelligent-systems/jfxhms) |
 | [jfxai4bpm](https://github.com/robotics-intelligent-systems/jfxai4bpm) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4bpm) |
 | [jfxai4ats](https://github.com/robotics-intelligent-systems/jfxai4ats) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4ats) |
 | [jfxai4obs](https://github.com/robotics-intelligent-systems/jfxai4obs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4obs) |
@@ -41,7 +41,7 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4mss](https://github.com/robotics-intelligent-systems/jfxai4mss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mss) |
 | [jfxai4mjas](https://github.com/robotics-intelligent-systems/jfxai4mjas) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mjas) |
 | [jfxai4mass](https://github.com/robotics-intelligent-systems/jfxai4mass) | 2 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mass) |
-| [jfxai4scss](https://github.com/robotics-intelligent-systems/jfxai4scss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4scss) |
+| [jfxai4scss](https://github.com/robotics-intelligent-systems/jfxai4scss) | 2 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4scss) |
 | [jfxai4mlrss](https://github.com/robotics-intelligent-systems/jfxai4mlrss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mlrss) |
 | [jfxoqss](https://github.com/robotics-intelligent-systems/jfxoqss) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxoqss) |
 | [jfxoss](https://github.com/robotics-intelligent-systems/jfxoss) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxoss) |
@@ -74,3 +74,5 @@ The catalog now contains 70 images across 22 projects: the 67 existing concepts 
 ## Scoped emergency-response concept transfer · 2026-10-13
 
 The original protected-truck and hydrogen-hybrid amphibious-transport JPGs now reside in JFXAI4RFFS (2); JFXAI4MASS retains 2 and JFXMBDSS retains 3. The catalog stays at 70 images and now covers 23 projects. Both destination image paths and corresponding proposed requirements/Draw.io were checked. Other historical review rows were not re-audited.
+
+Scoped update — 13 October 2026: medical patrol boat and hydrogen-electric helicopter now belong to JFXAI4CBS; JFXHMS and JFXAI4SCSS retain two illustrations each. Catalog total: 70 images in 24 projects. Earlier coverage rows retain their original review dates.

@@ -210,7 +210,7 @@ Existing Markdown references:
 Status: **Dedicated proposed baseline exists / approval and evidence pending**. [Public project](https://github.com/orgs/robotics-intelligent-systems/projects/22) · [Open work item](https://github.com/robotics-intelligent-systems/jfxhms/issues/2).
 
 - **[Large medical support ship](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/large-medical-support-ship-concept.jpg)** — Ship concept for arranging medical-support spaces and maritime mission interfaces.
-- **[Medical patrol boat](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg)** — Small-vessel concept for coastal or river medical-support missions.
+- **[Medical patrol boat](https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg)** — Small-vessel concept for coastal or river medical-support missions.
 - **[Modular medical vessel](https://github.com/robotics-intelligent-systems/jfxhms/blob/main/MBSE/CAD/modular-medical-vessel-concept.jpg)** — Medical-support vessel concept with modular mission spaces and service interfaces.
 
 Existing Markdown references:
@@ -319,7 +319,7 @@ Existing Markdown references:
 Status: **No separate concept requirements Markdown found / extraction and reconciliation pending**. [Public project](https://github.com/orgs/robotics-intelligent-systems/projects/38) · [Open work item](https://github.com/robotics-intelligent-systems/jfxai4scss/issues/2).
 
 - **[Modular hydrogen airship](https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-airship-with-twin-turbines.jpg)** — Airship concept with twin-turbine imagery; the asset alone does not establish hydrogen's technical role.
-- **[Modular hydrogen-electric helicopter](https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg)** — Aerial-platform concept for exploring hydrogen-electric subsystem integration.
+- **[Modular hydrogen-electric helicopter](https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg)** — Aerial-platform concept for exploring hydrogen-electric subsystem integration.
 - **[Solar HAPS glider](https://github.com/robotics-intelligent-systems/jfxai4scss/blob/main/MBSE/CAD/solar-haps-glider-concept.jpg)** — High-altitude aerial-platform concept for solar-energy and mission studies, stored in the satellite portfolio project.
 
 Existing Markdown references:
@@ -381,3 +381,5 @@ Status: **Proposed Markdown, JSON register and Draw.io baseline available; valid
 
 - **[Hydrogen-hybrid amphibious transport](https://github.com/robotics-intelligent-systems/jfxai4rffs/blob/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg)** — transferred from jfxmbdss; maintained at JFXAI4RFFS.
 - **[OpenTwin modular protected truck](https://github.com/robotics-intelligent-systems/jfxai4rffs/blob/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg)** — transferred from jfxai4mass; maintained at JFXAI4RFFS.
+
+2026-10-13: JFXAI4CBS owns the medical patrol boat and hydrogen-electric helicopter concept requirements; synthetic asset-event and fault/replay validation remains pending.
