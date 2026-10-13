@@ -668,8 +668,10 @@
           "path": "MBSE/CAD/medical-patrol-boat-concept.jpg",
           "preview": "https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/MBSE/CAD/medical-patrol-boat-concept.jpg",
           "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4cbs/main/MBSE/CAD/medical-patrol-boat-concept.jpg",
-          "references": "Transferred concept requirements: https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/docs/requirements/transferred-platform-concepts.md",
-          "status": "Proposed requirements and Drawio/SysML-style views; evidence pending"
+          "references": "Transferred from JFXHMS; preserved PAT/MED-C IDs",
+          "status": "Proposed requirements and Drawio/SysML-style views; evidence pending",
+          "requirements": "https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/docs/requirements/transferred-platform-concepts.md",
+          "diagram": "https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/MBSE/CAS/Drawio/OpenTwin_Medical_Patrol_Boat_High_Level_Requirements.drawio"
         },
         {
           "title": "Modular hydrogen-electric helicopter",
@@ -677,8 +679,10 @@
           "path": "MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg",
           "preview": "https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg",
           "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4cbs/main/MBSE/CAD/modular-hydrogen-electric-helicopter-concept.jpg",
-          "references": "Transferred concept requirements: https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/docs/requirements/transferred-platform-concepts.md",
-          "status": "Proposed requirements and Drawio/SysML-style views; evidence pending"
+          "references": "Transferred from JFXAI4SCSS; new HEL-01\u201307 requirements",
+          "status": "Proposed requirements and Drawio/SysML-style views; evidence pending",
+          "requirements": "https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/docs/requirements/transferred-platform-concepts.md",
+          "diagram": "https://github.com/robotics-intelligent-systems/jfxai4cbs/blob/main/MBSE/CAS/Drawio/JFXAI4CBS_Hydrogen_Electric_Helicopter_Requirements.drawio"
         }
       ]
     }
