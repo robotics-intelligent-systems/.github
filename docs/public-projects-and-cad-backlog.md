@@ -245,7 +245,6 @@ Existing Markdown references:
 
 Status: **No separate concept requirements Markdown found / extraction and reconciliation pending**. [Public project](https://github.com/orgs/robotics-intelligent-systems/projects/32) · [Open work item](https://github.com/robotics-intelligent-systems/jfxmbdss/issues/7).
 
-- **[Hydrogen-hybrid amphibious transport](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg)** — High-wing cargo-aircraft concept with electric propulsion and twin floats.
 - **[OpenTwin Marine ground-effect platform](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/liberty-lifter-seaplane-concept.jpg)** — Waterborne transport concept with a broad wing and interchangeable mission modules.
 - **[Mobile offshore base](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/mobile-offshore-base-digital-twin.jpg)** — Floating-base concept for modular logistics and offshore-support spaces.
 - **[OpenTwin USV H2](https://github.com/robotics-intelligent-systems/jfxmbdss/blob/main/MBSE/CAD/opentwin-usv-h2-digital-twin-cutaway-concept.jpg)** — Uncrewed surface-vessel concept combining cargo handling, hydrogen energy and supervised research.
@@ -309,7 +308,6 @@ Status: **Partial Markdown / readable requirements expansion pending**. [Public 
 
 - **[OpenTwin amphibious agricultural UGV](https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-amphibious-ugv-agricultural-robot-digital-twin-concept.jpg)** — Uncrewed agricultural-vehicle concept for modular field operations and amphibious mobility studies.
 - **[OpenTwin Explorer habitat](https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-explorer-mobile-fixed-habitat-digital-twin-concept.jpg)** — Habitat concept exploring mobile and fixed configurations and service interfaces.
-- **[OpenTwin modular protected truck](https://github.com/robotics-intelligent-systems/jfxai4mass/blob/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg)** — Protected-truck concept for studying vehicle packaging and modular mission interfaces.
 
 Existing Markdown references:
 
@@ -376,3 +374,10 @@ Existing Markdown references:
 Profile source blob revisions: personal `dfcecbebfcd1bbba6d23558a44074b9957ddfccc`; organizational `4dfa0222fbb89c355e65534ffd30e52e76bfefa5`.
 
 - 2026-10-11: JFXAI4DIA issue #2 moved from Backlog to In progress before this profile update; DIA-MBSE-001 deliverables are proposed in PR #3, with engineering validation and AR execution pending.
+
+### jfxai4rffs · transferred concepts · 2026-10-13
+
+Status: **Proposed Markdown, JSON register and Draw.io baseline available; validation pending**. [Specification](https://github.com/robotics-intelligent-systems/jfxai4rffs/blob/main/docs/requirements/emergency-response-support-concepts.md).
+
+- **[Hydrogen-hybrid amphibious transport](https://github.com/robotics-intelligent-systems/jfxai4rffs/blob/main/MBSE/CAD/hydrogen-hybrid-amphibious-transport-concept.jpg)** — transferred from jfxmbdss; maintained at JFXAI4RFFS.
+- **[OpenTwin modular protected truck](https://github.com/robotics-intelligent-systems/jfxai4rffs/blob/main/MBSE/CAD/opentwin-modular-armor-truck-digital-twin-concept.jpg)** — transferred from jfxai4mass; maintained at JFXAI4RFFS.

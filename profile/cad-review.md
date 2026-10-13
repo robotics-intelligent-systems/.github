@@ -7,7 +7,7 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4mhers](https://github.com/robotics-intelligent-systems/jfxai4mhers) | 1 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mhers) |
 | [jfxai4rss](https://github.com/robotics-intelligent-systems/jfxai4rss) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rss) |
 | [jfxai4rpcs](https://github.com/robotics-intelligent-systems/jfxai4rpcs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rpcs) |
-| [jfxai4rffs](https://github.com/robotics-intelligent-systems/jfxai4rffs) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rffs) |
+| [jfxai4rffs](https://github.com/robotics-intelligent-systems/jfxai4rffs) | 2 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rffs) |
 | [jfxosms](https://github.com/robotics-intelligent-systems/jfxosms) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxosms) |
 | [jfxlms4air](https://github.com/robotics-intelligent-systems/jfxlms4air) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxlms4air) |
 | [jfxrtess](https://github.com/robotics-intelligent-systems/jfxrtess) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxrtess) |
@@ -35,12 +35,12 @@ Review date: 2026-10-11. Scope: all 47 JFX projects linked by the organizational
 | [jfxai4moms](https://github.com/robotics-intelligent-systems/jfxai4moms) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4moms) |
 | [jfxai4crm](https://github.com/robotics-intelligent-systems/jfxai4crm) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4crm) |
 | [jfxai4rts](https://github.com/robotics-intelligent-systems/jfxai4rts) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4rts) |
-| [jfxmbdss](https://github.com/robotics-intelligent-systems/jfxmbdss) | 4 | [Repository](https://github.com/robotics-intelligent-systems/jfxmbdss) |
+| [jfxmbdss](https://github.com/robotics-intelligent-systems/jfxmbdss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxmbdss) |
 | [jfxnpss](https://github.com/robotics-intelligent-systems/jfxnpss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxnpss) |
 | [jfxjts](https://github.com/robotics-intelligent-systems/jfxjts) | 4 | [Repository](https://github.com/robotics-intelligent-systems/jfxjts) |
 | [jfxai4mss](https://github.com/robotics-intelligent-systems/jfxai4mss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mss) |
 | [jfxai4mjas](https://github.com/robotics-intelligent-systems/jfxai4mjas) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mjas) |
-| [jfxai4mass](https://github.com/robotics-intelligent-systems/jfxai4mass) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mass) |
+| [jfxai4mass](https://github.com/robotics-intelligent-systems/jfxai4mass) | 2 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mass) |
 | [jfxai4scss](https://github.com/robotics-intelligent-systems/jfxai4scss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4scss) |
 | [jfxai4mlrss](https://github.com/robotics-intelligent-systems/jfxai4mlrss) | 3 | [Repository](https://github.com/robotics-intelligent-systems/jfxai4mlrss) |
 | [jfxoqss](https://github.com/robotics-intelligent-systems/jfxoqss) | 0 | [Repository](https://github.com/robotics-intelligent-systems/jfxoqss) |
@@ -70,3 +70,7 @@ The current MBSE/CAD tree contains Ocean Mining plus NEREO v1 and LUMEN-3 v2. Bo
 ## Scoped agricultural update · 2026-10-13
 
 The catalog now contains 70 images across 22 projects: the 67 existing concepts plus three JFXAI4RPCS JPG illustrations in `MBSE/CAD`. Visual design is complete; dimensioned CAD, executable twins, simulation evidence and prototypes remain pending. Historical baseline audit figures above retain their original scope.
+
+## Scoped emergency-response concept transfer · 2026-10-13
+
+The original protected-truck and hydrogen-hybrid amphibious-transport JPGs now reside in JFXAI4RFFS (2); JFXAI4MASS retains 2 and JFXMBDSS retains 3. The catalog stays at 70 images and now covers 23 projects. Both destination image paths and corresponding proposed requirements/Draw.io were checked. Other historical review rows were not re-audited.
