@@ -2,9 +2,9 @@
 
 Reviewed: 2026-10-11.
 
-76 repositories from the personal and organizational profiles: 73 new public projects and 3 reused organizational projects. Each has one newly registered open work item: 75 open issues and 1 project draft (issues disabled in llm-d). Existing items and project history remain available.
+Historical registration snapshot: 76 repositories from the personal and organizational profiles: 73 new public projects and 3 reused organizational projects. Each has one newly registered open work item: 75 open issues and 1 project draft (issues disabled in llm-d). Existing items and project history remain available.
 
-## Sources and workflow
+Catalog update: **2026-10-13 — 77 repositories (29 personal + 48 organizational)** after adding [JFOXPMS](https://github.com/robotics-intelligent-systems/jfoxpms). Its proposed parking architecture and catalog are documented; a GitHub Projects board and initial work item are not established by this catalog update. The 75-issue / 1-draft figures above remain the historical registration snapshot.\n\n## Sources and workflow
 
 - [Personal profile](https://github.com/sdk2035/sdk2035)
 - [Organizational profile](https://github.com/robotics-intelligent-systems/.github)

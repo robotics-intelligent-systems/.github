@@ -28,6 +28,7 @@ pilots and validated integrations are distinguished by repository evidence.
 - [CAD Concept Gallery](#cad-concept-gallery)
 
 - [Our Focus](#our-focus)
+- [Management Systems](https://robotics-intelligent-systems.github.io/portfolio/management/)
 - [Project Catalog](#project-catalog)
   - [Project Progress Guide](#reading-the-progress-bars)
   - [Robotics and Industrial Simulation](#robotics-and-industrial-simulation)
@@ -45,7 +46,9 @@ pilots and validated integrations are distinguished by repository evidence.
 
 ## Public projects and AI-assisted backlog
 
-[Complete Markdown register](https://github.com/robotics-intelligent-systems/.github/blob/main/docs/public-projects-and-cad-backlog.md) — reviewed 2026-10-11: **76 public projects** (29 personal and 47 organizational), **75 open issues**, **1 project draft** and the specification audit for **64 CAD concepts**. The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
+[Complete Markdown register](https://github.com/robotics-intelligent-systems/.github/blob/main/docs/public-projects-and-cad-backlog.md) — catalog updated 2026-10-13: **77 portfolio projects** (29 personal and 48 organizational), the prior registration of **75 open issues**, **1 project draft** and the specification audit for **64 CAD concepts**. The register links each repository, project, initial work item and proposed next iteration, and records missing or partial Markdown specifications.
+
+The global catalog now contains **77 projects: 29 personal + 48 organizational**. JFOXPMS is newly included; its inclusion does not imply a newly created GitHub Projects board or work item. Explore the [Management Systems portfolio tab](https://robotics-intelligent-systems.github.io/portfolio/management/) for domain workflows, current status and proposed next steps.
 
 ## Our Focus
 
@@ -64,12 +67,12 @@ README, source, releases and validation evidence define its current capabilities
 
 ## Project Catalog
 
-The catalog groups **47 JFX projects** by primary domain. It is a curated entry
+The catalog groups **48 JFX projects** by primary domain. It is a curated entry
 point, not a complete inventory of the organization or a single deployable product.
 
 ### Reading the progress bars
 
-**Baseline snapshot: 2026-10-10; JFXAI4RPCS concept update: 2026-10-13.** These are editorial estimates of maturity toward a first
+**Baseline snapshot: 2026-10-10; JFXAI4RPCS concept and JFOXPMS catalog updates: 2026-10-13.** These are editorial estimates of maturity toward a first
 validated MVP, based on repository READMEs and visible contents; they are **not**
 measured completion percentages, effort estimates or delivery commitments.
 
@@ -128,6 +131,7 @@ Maintainers review generated artifacts and acceptance evidence. This snapshot is
 
 | Repository | Focus | Status | Estimated progress | Next AI-assisted task (proposed) |
 | --- | --- | --- | --- | --- |
+| [jfoxpms](https://github.com/robotics-intelligent-systems/jfoxpms) | Parking spaces, reservations, occupancy and supervision; proposed open architecture and free-software AI | Architecture / documentation; implementation and connectors pending | `██░░░░░░░░` ~20% | Validate one camera/sensor occupancy fixture; implement observation-to-MQTT history and reservation conflict checks. |
 | [jfxotbs](https://github.com/robotics-intelligent-systems/jfxotbs) | Aviation operations, travel/booking management and rescue digital-twin architecture | Architecture / documentation | `██░░░░░░░░` ~20% | Draft one booking/operations contract and mocked itinerary reconciliation cases. |
 | [jfxhms](https://github.com/robotics-intelligent-systems/jfxhms) | Healthcare, supervised EMS and CAD-aligned medical-fleet digital twins | HMS-MBSE-001: merged baseline; 39 locally owned requirements + 7 external PAT references, two CAD concepts and 12 integration SysML views; implementation/evidence pending | `██░░░░░░░░` ~20% | HMS-PILOT-002: implement an offline synthetic encounter-to-mission-handover harness with access denial, invalid profiles, reviewed dispatch, stale telemetry, duplicate replay and WAN recovery evidence. |
 | [jfxai4bpm](https://github.com/robotics-intelligent-systems/jfxai4bpm) | Business process management | Architecture / documentation | `██░░░░░░░░` ~20% | Specify one business-process model with event and state-transition fixtures. |
@@ -547,9 +551,10 @@ to find the closest domain.
 **Model before integration. Validate with evidence. Keep components replaceable.**
 
 
-**2026-10-11 — RTESS-SIM-001.** [PR #3](https://github.com/robotics-intelligent-systems/jfxrtess/pull/3) adds requirements, four Mermaid diagrams and eight native Draw.io pages. [Issue #2](https://github.com/robotics-intelligent-systems/jfxrtess/issues/2) tracks documentation review in [Project 10](https://github.com/orgs/robotics-intelligent-systems/projects/10). The 47-project portfolio now separates physical capital from simulation costs. Next: RTESS-SIM-002, execute a labelled synthetic AM-S fixture and capture reproducible evidence. Simulation remains unexecuted; maturity stays at ~20%.
+**2026-10-11 — RTESS-SIM-001.** [PR #3](https://github.com/robotics-intelligent-systems/jfxrtess/pull/3) adds requirements, four Mermaid diagrams and eight native Draw.io pages. [Issue #2](https://github.com/robotics-intelligent-systems/jfxrtess/issues/2) tracks documentation review in [Project 10](https://github.com/orgs/robotics-intelligent-systems/projects/10). The 48-project portfolio now separates physical capital from simulation costs. Next: RTESS-SIM-002, execute a labelled synthetic AM-S fixture and capture reproducible evidence. Simulation remains unexecuted; maturity stays at ~20%.
 
 **2026-10-11 — ATS-MBSE-001.** [PR #3](https://github.com/robotics-intelligent-systems/jfxai4ats/pull/3) proposes 18 verifiable requirements, eight interface contracts, 13 Mermaid flows and a six-page editable SysML draw.io model. [Issue #2](https://github.com/robotics-intelligent-systems/jfxai4ats/issues/2) is In review in [Project 24](https://github.com/orgs/robotics-intelligent-systems/projects/24); [ATS-PILOT-002 / issue #1](https://github.com/robotics-intelligent-systems/jfxai4ats/issues/1) remains in Backlog for a synthetic offline risk/order/reconciliation pilot. Documentation checks passed; trading acceptance cases remain planned. Architecture maturity stays at ~20% until executable evidence is reviewed.
+
 
 
 
