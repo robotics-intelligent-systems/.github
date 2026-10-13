@@ -66,3 +66,7 @@ Two unchanged JPG concepts move from JFXAI4MOMS to JFXOSMS: floating dry dock an
 ## Scoped JFXAI4MOMS concept additions · 2026-10-12
 
 The current MBSE/CAD tree contains Ocean Mining plus NEREO v1 and LUMEN-3 v2. Both new JPG paths were verified on main; NEREO and LUMEN-3 are image concepts with proposed free-software simulation, not validated CAD or implemented twins. The catalog now has 67 images across 21 projects; the older 65-image snapshot above describes the prior transfer stage. Other baseline rows were not re-audited.
+
+## Scoped agricultural update · 2026-10-13
+
+The catalog now contains 70 images across 22 projects: the 67 existing concepts plus three JFXAI4RPCS JPG illustrations in `MBSE/CAD`. Visual design is complete; dimensioned CAD, executable twins, simulation evidence and prototypes remain pending. Historical baseline audit figures above retain their original scope.

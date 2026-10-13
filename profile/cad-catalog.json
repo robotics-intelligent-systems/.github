@@ -1,6 +1,6 @@
 {
-  "reviewed_at": "2026-10-11",
-  "scope": "47 JFX projects listed in the organizational profile; scoped Plant S/infrastructure and JFXAI4MOMS NEREO/LUMEN-3 additions on 2026-10-12",
+  "reviewed_at": "2026-10-13",
+  "scope": "47 JFX projects listed in the organizational profile; scoped Plant S/infrastructure and JFXAI4MOMS NEREO/LUMEN-3 additions on 2026-10-12; JFXAI4RPCS agricultural rover, drone and hybrid modular tractor concepts added from MBSE/CAD on 2026-10-13",
   "projects": [
     {
       "project": "jfxai4mhers",
@@ -33,6 +33,50 @@
           "references": "§7.1: HOPE Jr, OpenLoong, Berkeley Lite, ToddlerBot, AGILOped; WALK-MAN/Centauro robustness references. OpenArm · Open-TeleVision · DOGlove · OpenExo",
           "simulation": "FreeCAD → URDF/Xacro → ROS 2 / ros2_control → Gazebo; MuJoCo comparison backend",
           "status": "Visual concept; geometry, integration and performance pending validation"
+        }
+      ]
+    },
+    {
+      "project": "jfxai4rpcs",
+      "concepts": [
+        {
+          "title": "Agricultural drone",
+          "description": "Transparent cutaway of propulsion, batteries, flight control, spray tank, pump and crop sensors.",
+          "path": "MBSE/CAD/dron-agricola-gemelo-digital-concepto-3d.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4rpcs/blob/main/MBSE/CAD/dron-agricola-gemelo-digital-concepto-3d.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4rpcs/main/MBSE/CAD/dron-agricola-gemelo-digital-concepto-3d.jpg",
+          "category": "Agricultural aerial robotics",
+          "references": "JFXAI4RPCS agricultural inspection and supervised intervention architecture; repository JPG concept.",
+          "simulation": "Proposed: FreeCAD mass and payload model; PX4 SITL / Gazebo flight, crop sensing and spray-system fixtures.",
+          "status": "3D visual concept completed on 2026-10-13; dimensioned CAD, executable digital twin, simulation results and prototype validation pending.",
+          "reviewedAt": "2026-10-13",
+          "requirements": "https://github.com/robotics-intelligent-systems/jfxai4rpcs#10-simulation-and-mbse-plan"
+        },
+        {
+          "title": "Articulated agricultural ATV rover",
+          "description": "Transparent cutaway of articulation, batteries, electric traction, sensors and control for agricultural mobility.",
+          "path": "MBSE/CAD/rover-agricola-articulado-gemelo-digital-concepto-3d.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4rpcs/blob/main/MBSE/CAD/rover-agricola-articulado-gemelo-digital-concepto-3d.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4rpcs/main/MBSE/CAD/rover-agricola-articulado-gemelo-digital-concepto-3d.jpg",
+          "category": "Agricultural ground robotics",
+          "references": "JFXAI4RPCS agricultural inspection and supervised intervention architecture; repository JPG concept.",
+          "simulation": "Proposed: FreeCAD chassis and articulation; ROS 2 / Gazebo terrain, steering and sensor fixtures.",
+          "status": "3D visual concept completed on 2026-10-13; dimensioned CAD, executable digital twin, simulation results and prototype validation pending.",
+          "reviewedAt": "2026-10-13",
+          "requirements": "https://github.com/robotics-intelligent-systems/jfxai4rpcs#10-simulation-and-mbse-plan"
+        },
+        {
+          "title": "Modular hybrid UGV tractor with mini telerobotic backhoe",
+          "description": "Transparent cutaway of engine-generator, batteries, electric traction and modular hydraulic backhoe with articulated arm and stabilizers.",
+          "path": "MBSE/CAD/tractor-ugv-hibrido-modular-retroexcavadora-concepto-3d.jpg",
+          "preview": "https://github.com/robotics-intelligent-systems/jfxai4rpcs/blob/main/MBSE/CAD/tractor-ugv-hibrido-modular-retroexcavadora-concepto-3d.jpg",
+          "thumbnail": "https://raw.githubusercontent.com/robotics-intelligent-systems/jfxai4rpcs/main/MBSE/CAD/tractor-ugv-hibrido-modular-retroexcavadora-concepto-3d.jpg",
+          "category": "Modular agricultural ground robotics",
+          "references": "JFXAI4RPCS agricultural inspection and supervised intervention architecture; repository JPG concept.",
+          "simulation": "Proposed: FreeCAD chassis and implement interfaces; ROS 2 / Gazebo arm kinematics and teleoperation; OpenModelica hybrid power and hydraulics.",
+          "status": "3D visual concept completed on 2026-10-13; dimensioned CAD, executable digital twin, simulation results and prototype validation pending.",
+          "reviewedAt": "2026-10-13",
+          "requirements": "https://github.com/robotics-intelligent-systems/jfxai4rpcs#10-simulation-and-mbse-plan"
         }
       ]
     },
