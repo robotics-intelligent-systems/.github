@@ -547,6 +547,7 @@ For a project-specific contribution:
 Research and technical collaboration proposals can begin in the relevant project's
 issues. Browse the [organization repositories](https://github.com/orgs/robotics-intelligent-systems/repositories)
 to find the closest domain.
+For direct contact, reach out on [Discord](https://discord.com/users/1560089627845468227).
 
 **Model before integration. Validate with evidence. Keep components replaceable.**
 
