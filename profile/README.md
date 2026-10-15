@@ -20,6 +20,7 @@ pilots and validated integrations are distinguished by repository evidence.
 [Browse repositories](https://github.com/orgs/robotics-intelligent-systems/repositories)
 · [Explore the project catalog](#project-catalog)
 · [Get involved](#contributing-and-collaboration)
+· [Contact on Discord](https://discord.com/users/1560089627845468227)
 
 ## Explore
 
