@@ -21,6 +21,7 @@ pilots and validated integrations are distinguished by repository evidence.
 · [Explore the project catalog](#project-catalog)
 · [Get involved](#contributing-and-collaboration)
 · [Contact on Discord](https://discord.com/users/1560089627845468227)
+· [Contact the organization on Slack](https://roboticsintel-xny7516.slack.com/team/U0C98G39Q5V)
 
 ## Explore
 
