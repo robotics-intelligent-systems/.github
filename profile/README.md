@@ -17,11 +17,7 @@ The catalog below makes each project's **current status, indicative MVP maturity
 and proposed next AI-assisted task** visible. Architecture proposals, executable
 pilots and validated integrations are distinguished by repository evidence.
 
-[Browse repositories](https://github.com/orgs/robotics-intelligent-systems/repositories)
-· [Explore the project catalog](#project-catalog)
-· [Get involved](#contributing-and-collaboration)
-· [Contact on Discord](https://discord.com/users/1560089627845468227)
-· [Contact the organization on Slack](https://roboticsintel-xny7516.slack.com/team/U0C98G39Q5V)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/robotics-intelligent-systems) [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1560089627845468227) [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://roboticsintel-xny7516.slack.com/team/U0C98G39Q5V)
 
 ## Explore
 
